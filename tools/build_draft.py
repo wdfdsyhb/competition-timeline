@@ -80,20 +80,20 @@ def build_records(raw):
     for r in raw:
         if is_report(r["title"]) or not r["phases"]:
             continue
-        # 取最早的可解析日期作为主时间
-        dated = [p for p in r["phases"] if p["start"]]
+        # 取最早的可解析日期作为主时间（start 或 end 任一有值即可）
+        dated = [p for p in r["phases"] if p.get("start") or p.get("end")]
         if not dated:
             continue
-        dated.sort(key=lambda p: p["start"])
+        dated.sort(key=lambda p: p.get("start") or p.get("end"))
         lead = dated[0]
         phases = []
         for p in r["phases"]:
             phases.append({
                 "name": p["name"],
-                "start": p["start"],
-                "end": p["end"],
-                "precision": p["precision"],
-                "raw": p["raw"],
+                "start": p.get("start"),
+                "end": p.get("end"),
+                "precision": p.get("precision", "day"),
+                "raw": p.get("raw", ""),
             })
         out.append({
             "id": r["id"],
@@ -102,9 +102,9 @@ def build_records(raw):
             "org": r["organizer"] or "",
             "tags": r["tags"],
             "cat": categorize(r["title"]),
-            "lead": lead["start"],
-            "lead_end": lead["end"],
-            "precision": lead["precision"],
+            "lead": lead.get("start") or lead.get("end"),
+            "lead_end": lead.get("end"),
+            "precision": lead.get("precision", "day"),
             "phases": phases,
             "src": r["source"]["url"],
             "conf": r["confidence"],
@@ -149,7 +149,10 @@ def build_ics(recs):
         for i, ph in enumerate(r["phases"]):
             start = ph["start"] or ""
             end = ph["end"] or ""
-            if len(start) != 10:  # 只有月精度(YYYY-MM)或缺失的跳过
+            # 只有 end 的阶段：把 end 当单日事件开始（截止日提醒语义）
+            if len(start) != 10 and len(end) == 10:
+                start, end = end, ""
+            if len(start) != 10:  # 月精度(YYYY-MM)或全缺失的跳过
                 continue
             n += 1
             dtend = ""

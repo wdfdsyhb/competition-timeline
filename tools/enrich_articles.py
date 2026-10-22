@@ -170,6 +170,9 @@ def enrich_one(rec):
     if ou and not rec.get("official_url"):
         rec["official_url"] = ou
         rec["enrich"] = {"official_url_added": True}
+    if ou and not phases:
+        # 只补到官网链接、没解析出时间：confidence 保守回退
+        rec["confidence"] = "tentative"
     if not phases and not ou:
         return rec, "no-findings"
     return rec, "ok"
