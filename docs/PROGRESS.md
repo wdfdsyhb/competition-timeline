@@ -21,3 +21,25 @@
 2. 部署 GitHub Pages（本地提交是占位身份 yg@local，需用户提供 GitHub 仓库）
 3. 回源补漏：54 条无时间记录抓 52jingsai 文章页 `article-<id>-1.html`
 1. P2 扩源：cahe.edu.cn（教育学会 `/site/content/<id>.html`）、mcm.edu.cn（数模）
+
+
+## 回源补漏完成（2026-10-22 晚）
+
+### 结果
+- `tools/enrich_articles.py`：抓 52jingsai 文章页（GB18030）补时间 + 官网链接
+- 54 条无时间记录 → 35 条命中（12 条补出阶段时间，21 条只补到官网 URL，2 条纯噪声过滤后无发现）
+- 数据面：133/173 条有阶段；站点条目 118 → **131**；ics 日程 120 → **162**
+- enrich 产出的阶段多为 start=null、仅 end（截止日语义）→ build_draft/ics 增加 end 回退：
+  - build_records：lead = start or end；dated 排序键同
+  - build_ics：只有 end 的阶段把 end 当单日事件 DTSTART（截止提醒）
+- 已部署上线（commit 15f51ec）
+
+### 关键坑
+- enrich 的 phases 结构无 precision/raw 键 → build_records KeyError，用 .get 默认值修复
+- 文章页底部推荐栏「XX活动||征集截止时间：…||主办...」是噪声，extract_phases 里 `||` 行直接跳过
+- candidates.json 的 source 字段是 dict（type/name/url），不是 str，取 source['url']
+- build_draft.py 的 SRC 一度读旧 candidates.json 导致「enrich 无效」假象，cp enriched 覆盖后正常
+
+### 剩余
+- 19 条 nofind（文章页正文无可解析日期，多为纯通知类或规则文件）——留人工或后续扩源覆盖
+- P2 扩源：cahe.edu.cn / mcm.edu.cn
