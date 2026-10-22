@@ -6,7 +6,8 @@
   "competition": 172,
   "with_phases": 119,
   "with_dates": 118,
-  "phases_after_enrich": 133
+  "phases_after_enrich": 133,
+  "phases_after_official": 134
  },
  "records": [
   {
@@ -567,6 +568,10 @@
    "official_url": "https://www.bricsacademy.org.cn/signup/index",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -746,6 +751,10 @@
    "official_url": "https://www.raicom.com.cn/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -1093,6 +1102,10 @@
    "official_url": "http://iche.zju.edu.cn/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 2027
    }
   },
   {
@@ -1303,6 +1316,10 @@
    "official_url": "https://www.robomaster.com/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -1402,6 +1419,10 @@
    "official_url": "http://www.xcbds.com/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -1423,6 +1444,9 @@
    "official_url": "http://nuedc.xjtu.edu.cn/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "error": "fetch-fail: <urlopen error timed out>"
    }
   },
   {
@@ -1549,6 +1573,10 @@
    "official_url": "https://www.robocon.org.cn/sys-nd/63.html",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -2192,7 +2220,28 @@
    "title_raw": "2025年第十七届全国大学生数学竞赛",
    "title": "2025年第十七届全国大学生数学竞赛",
    "tags": [],
-   "phases": [],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "start": null,
+     "end": "2026-05-09"
+    },
+    {
+     "name": "考试时间",
+     "start": null,
+     "end": "2026-05-10"
+    },
+    {
+     "name": "第一场",
+     "start": null,
+     "end": "2026-05-10"
+    },
+    {
+     "name": "第二场",
+     "start": null,
+     "end": "2026-06-27"
+    }
+   ],
    "organizer": null,
    "published": null,
    "source": {
@@ -2200,11 +2249,12 @@
     "name": "我爱竞赛网",
     "url": "https://www.52jingsai.com/article-22368-1.html"
    },
-   "confidence": "tentative",
+   "confidence": "estimated",
    "official_url": "http://www.ncmac.cn/reg-364.html",
    "enrich": {
     "official_url_added": true
-   }
+   },
+   "official_checked_at": "2026-10-22"
   },
   {
    "id": "22394",
@@ -2485,6 +2535,10 @@
    "official_url": "https://cy.ncss.cn",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 2025
    }
   },
   {
@@ -2600,6 +2654,9 @@
    "official_url": "http://cmes-imic.org.cn/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "error": "fetch-fail: timed out"
    }
   },
   {
@@ -2768,6 +2825,10 @@
    "official_url": "http://www.xcbds.com/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -2789,6 +2850,10 @@
    "official_url": "https://www.caairobot.com/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -2810,6 +2875,10 @@
    "official_url": "http://www.ad-young.com/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 2025
    }
   },
   {
@@ -2955,6 +3024,10 @@
    "official_url": "http://jsjds.blcu.edu.cn/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 2026
    }
   },
   {
@@ -3108,6 +3181,10 @@
    "official_url": "https://www.bricsacademy.org.cn/signup/index",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -3129,6 +3206,10 @@
    "official_url": "https://www.cnrobocon.net/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -3301,6 +3382,10 @@
    "official_url": "https://www.bricsacademy.org.cn/signup/index",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -3548,6 +3633,10 @@
    "official_url": "http://www.xcbds.com/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -3567,6 +3656,10 @@
    "official_url": "https://jdsxj.eduyun.cn/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -3845,6 +3938,10 @@
    "official_url": "http://www.sun-ada.net/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 0
    }
   },
   {
@@ -3996,6 +4093,10 @@
    "official_url": "http://jsjds.blcu.edu.cn/",
    "enrich": {
     "official_url_added": true
+   },
+   "official_probe": {
+    "checked": "2026-10-22",
+    "year_seen": 2026
    }
   },
   {
@@ -4468,5 +4569,6 @@
    "official_url": null
   }
  ],
- "enriched_at": "2026-10-22 20:20:28"
+ "enriched_at": "2026-10-22 20:20:28",
+ "official_enriched_at": "2026-10-22 20:49:10"
 }
