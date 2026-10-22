@@ -16,12 +16,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 SRC = ROOT / "data" / "candidates.json"
-OUT = ROOT / "site" / "index.html"
-ICS_OUT = ROOT / "site" / "competitions.ics"
+OUT = ROOT / "index.html"
+ICS_OUT = ROOT / "competitions.ics"
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "data" / "candidates.json"
-OUT = ROOT / "site" / "index.html"
+OUT = ROOT / "index.html"
 
 # 分类映射：命中即归类，顺序即优先级
 CATS = [
