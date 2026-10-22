@@ -1,0 +1,4142 @@
+{
+ "generated_at": "2026-10-22T16:35:18",
+ "source": "https://www.52jingsai.com/bisai/xkjn/bangdan/",
+ "counts": {
+  "total": 173,
+  "competition": 172,
+  "with_phases": 119,
+  "with_dates": 118
+ },
+ "records": [
+  {
+   "id": "24115",
+   "title_raw": "【榜单竞赛】第十一届华为ICT大赛中国赛",
+   "title": "第十一届华为ICT大赛中国赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "实践赛报名截止",
+     "raw": "2026年10月31日",
+     "start": "2026-10-31",
+     "end": "2026-10-31",
+     "precision": "day"
+    },
+    {
+     "name": "创新赛报名截止",
+     "raw": "2026年11月30日",
+     "start": "2026-11-30",
+     "end": "2026-11-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "华为技术有限公司",
+   "published": "2026-10-13 09:51",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24115-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24114",
+   "title_raw": "【榜单竞赛】2027第十一届米兰设计周-中国高校设计学科师生优秀作品展",
+   "title": "2027第十一届米兰设计周-中国高校设计学科师生优秀作品展",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2026年10月至2027年4月",
+     "start": "2026-10",
+     "end": "2027-04",
+     "precision": "range"
+    }
+   ],
+   "organizer": "米兰设计周-中国高校设计学科师生优秀作品展组委会",
+   "published": "2026-10-13 09:47",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24114-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24109",
+   "title_raw": "2026年第十四届全国大学生数字媒体科技作品及创意竞赛",
+   "title": "2026年第十四届全国大学生数字媒体科技作品及创意竞赛",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名及作品提交截止时间",
+     "raw": "2026年10月23日23:59:59",
+     "start": "2026-10-23",
+     "end": "2026-10-23",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国大学生数字媒体科技作品及创意竞赛组委会",
+   "published": "2026-10-12 14:42",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24109-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23944",
+   "title_raw": "【榜单赛事，规范字大赛】2026年第八届大学生语言文字能力大赛规范字专项赛报名通知！",
+   "title": "2026年第八届大学生语言文字能力大赛规范字专项赛报名通知！",
+   "tags": [
+    "榜单赛事",
+    "规范字大赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年11月20日中午12点",
+     "start": "2026-11-20",
+     "end": "2026-11-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2026-10-12 12:11",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23944-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24110",
+   "title_raw": "【榜单竞赛】第十七届全国大学生市场调查与分析大赛",
+   "title": "第十七届全国大学生市场调查与分析大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "参赛报名",
+     "raw": "即日起至2026年10月31日",
+     "start": "2026-10-31",
+     "end": "2026-10-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国商业统计学会",
+   "published": "2026-10-12 12:10",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24110-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24030",
+   "title_raw": "【榜单赛事】2026年第四届大学生汉语大赛火热报名中！",
+   "title": "2026年第四届大学生汉语大赛火热报名中！",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起至2026年12月19日下午5点",
+     "start": "2026-12-19",
+     "end": "2026-12-19",
+     "precision": "day"
+    }
+   ],
+   "organizer": "华夏文化促进会文化产业工作委员会、大学生汉语大赛组委会",
+   "published": "2026-10-12 11:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24030-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24017",
+   "title_raw": "【榜单赛事，人工智能挑战赛】2026年第八届全国高校计算机能力挑战赛人工智能挑战赛报名开启",
+   "title": "2026年第八届全国高校计算机能力挑战赛人工智能挑战赛报名开启",
+   "tags": [
+    "榜单赛事",
+    "人工智能挑战赛"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起-2026年11月13日",
+     "start": "2026-11-13",
+     "end": "2026-11-13",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24017-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23941",
+   "title_raw": "【诵读大赛】2026年第八届大学生语言文字能力大赛诵读专项赛报名通知！",
+   "title": "2026年第八届大学生语言文字能力大赛诵读专项赛报名通知！",
+   "tags": [
+    "诵读大赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年11月13日中午12点",
+     "start": "2026-11-13",
+     "end": "2026-11-13",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23941-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24107",
+   "title_raw": "第十六届全国大学生金相技能大赛",
+   "title": "第十六届全国大学生金相技能大赛",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2027年3月26日18:00",
+     "start": "2027-03-26",
+     "end": "2027-03-26",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24107-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23885",
+   "title_raw": "【榜单赛事，Office大赛】2026年第八届全国高校计算机能力挑战赛Office高级应用赛",
+   "title": "2026年第八届全国高校计算机能力挑战赛Office高级应用赛",
+   "tags": [
+    "榜单赛事",
+    "Office大赛"
+   ],
+   "phases": [
+    {
+     "name": "Office高级应用赛报名时间",
+     "raw": "即日起-2026年11月25日",
+     "start": "2026-11-25",
+     "end": "2026-11-25",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23885-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23889",
+   "title_raw": "【普通话，榜单赛事】2026年第五届大学生普通话大赛报名通知",
+   "title": "2026年第五届大学生普通话大赛报名通知",
+   "tags": [
+    "普通话",
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23889-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24044",
+   "title_raw": "【榜单赛事】2026新锐设计竞赛·华灿奖",
+   "title": "2026新锐设计竞赛·华灿奖",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "创意赛道作品征集截止时间",
+     "raw": "2026年11月27日17:00",
+     "start": "2026-11-27",
+     "end": "2026-11-27",
+     "precision": "day"
+    },
+    {
+     "name": "校赛截止时间",
+     "raw": "2026年12月29日17:00",
+     "start": "2026-12-29",
+     "end": "2026-12-29",
+     "precision": "day"
+    },
+    {
+     "name": "赛区赛截止时间",
+     "raw": "2027年1月29日17:00",
+     "start": "2027-01-29",
+     "end": "2027-01-29",
+     "precision": "day"
+    },
+    {
+     "name": "定向主题作品征集截止时间",
+     "raw": "2027年3月5日17:00",
+     "start": "2027-03-05",
+     "end": "2027-03-05",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24044-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23940",
+   "title_raw": "【榜单赛事，写作竞赛】2026年第八届大学生语言文字能力大赛写作专项赛报名通知！",
+   "title": "2026年第八届大学生语言文字能力大赛写作专项赛报名通知！",
+   "tags": [
+    "榜单赛事",
+    "写作竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年11月27日中午12点",
+     "start": "2026-11-27",
+     "end": "2026-11-27",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23940-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23886",
+   "title_raw": "【榜单赛事】2026年第八届全国高校计算机能力挑战赛，多赛项",
+   "title": "2026年第八届全国高校计算机能力挑战赛，多赛项",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起-2026年11月25日",
+     "start": "2026-11-25",
+     "end": "2026-11-25",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23886-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24024",
+   "title_raw": "【榜单赛事】2026年第十届跨境电商专业能力大赛",
+   "title": "2026年第十届跨境电商专业能力大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起-2026年11月13日",
+     "start": "2026-11-13",
+     "end": "2026-11-13",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国对外贸易经济合作企业协会",
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24024-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24014",
+   "title_raw": "【榜单赛事，大数据挑战赛】2026年第八届全国高校计算机能力挑战赛报名开启",
+   "title": "2026年第八届全国高校计算机能力挑战赛报名开启",
+   "tags": [
+    "榜单赛事",
+    "大数据挑战赛"
+   ],
+   "phases": [
+    {
+     "name": "大数据挑战赛报名时间",
+     "raw": "即日起-2026年11月6日",
+     "start": "2026-11-06",
+     "end": "2026-11-06",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24014-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23649",
+   "title_raw": "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！初赛免费答题，决赛提交作品",
+   "title": "2026年第四届全国大学生教育教学能力大赛报名通知！初赛免费答题，决赛提交作品",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "中国智慧工程研究会职业教育专业委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23649-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24009",
+   "title_raw": "关于举办2027年第十届中国大学生工程实践与创新能力大赛",
+   "title": "关于举办2027年第十届中国大学生工程实践与创新能力大赛",
+   "tags": [],
+   "phases": [],
+   "organizer": "教育部工程训练教学指导委员会、中国大学生工程实践与创新能力大赛组委会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24009-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "24002",
+   "title_raw": "【榜单赛事】第十二届全国大学生生命科学竞赛（科学探究类）",
+   "title": "第十二届全国大学生生命科学竞赛（科学探究类）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2027年1月15日",
+     "start": "2027-01-15",
+     "end": "2027-01-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-24002-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23998",
+   "title_raw": "【榜单赛事】2026第十二届全国大学生物理实验竞赛（创新）",
+   "title": "2026第十二届全国大学生物理实验竞赛（创新）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "正式报名",
+     "raw": "2026年9月1日-15日",
+     "start": "2026-09-01",
+     "end": "2026-09-01",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校实验物理教学研究会、全国大学生物理实验竞赛组织委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23998-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23910",
+   "title_raw": "【榜单赛事】关于举办2026第十届金砖国家技能发展与技术创新大赛（第一批）的通知",
+   "title": "关于举办2026第十届金砖国家技能发展与技术创新大赛（第一批）的通知",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "金砖国家工商理事会中方理事会、一带一路暨金砖国家技能发展国际联盟、一带一路暨金砖",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23910-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23927",
+   "title_raw": "【教育部等主办】2026年中国国际大学生创新大赛",
+   "title": "2026年中国国际大学生创新大赛",
+   "tags": [
+    "教育部等主办"
+   ],
+   "phases": [],
+   "organizer": "教育部、中央统战部、中央网信办、国家发展改革委、工业和信息化部、人力资源社会保障",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23927-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23882",
+   "title_raw": "【榜单赛事，程序设计挑战赛】 2026年第八届全国高校计算机能力挑战赛程序设计挑战赛",
+   "title": "2026年第八届全国高校计算机能力挑战赛程序设计挑战赛",
+   "tags": [
+    "榜单赛事",
+    "程序设计挑战赛"
+   ],
+   "phases": [
+    {
+     "name": "程序设计挑战赛报名时间",
+     "raw": "即日起-2026年11月25日",
+     "start": "2026-11-25",
+     "end": "2026-11-25",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23882-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23557",
+   "title_raw": "2026年高教社杯全国大学生数学建模竞赛",
+   "title": "2026年高教社杯全国大学生数学建模竞赛",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23557-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23758",
+   "title_raw": "【榜单赛事】2026年第八届全国大学生工业设计大赛",
+   "title": "2026年第八届全国大学生工业设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年6月30日",
+     "start": "2026-06-30",
+     "end": "2026-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国工业设计一流专业建设协同创新平台、广东省本科高校工业设计专业教学指导委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23758-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23434",
+   "title_raw": "【榜单赛事】2026年第八届大学生语言文字能力大赛报名通知，专业不限",
+   "title": "2026年第八届大学生语言文字能力大赛报名通知，专业不限",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23434-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23619",
+   "title_raw": "【榜单赛事】2026年第12届睿抗机器人开发者大赛",
+   "title": "2026年第12届睿抗机器人开发者大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "工业和信息化部人才交流中心",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23619-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23618",
+   "title_raw": "【榜单赛事】2026年（第二十届）全国大学生文化旅游与会展竞赛",
+   "title": "2026年（第二十届）全国大学生文化旅游与会展竞赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年6月30日",
+     "start": "2026-06-30",
+     "end": "2026-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国国际贸易促进委员会商业行业委员会、中国国际商会商业行业商会和中国商业经济学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23618-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23617",
+   "title_raw": "【榜单赛事】2026年第二十届iCAN大学生创新创业大赛",
+   "title": "2026年第二十届iCAN大学生创新创业大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2026年4月1日一8月31日",
+     "start": "2026-04-01",
+     "end": "2026-04-01",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国创造学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23617-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23583",
+   "title_raw": "【榜单赛事】第十五届“中国软件杯”大学生软件设计大赛",
+   "title": "第十五届“中国软件杯”大学生软件设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年6月30日",
+     "start": "2026-06-30",
+     "end": "2026-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23583-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23579",
+   "title_raw": "【榜单赛事】2026年中国大学生机械工程创新创意大赛——工业工程与精益管理创新赛",
+   "title": "2026年中国大学生机械工程创新创意大赛——工业工程与精益管理创新赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "校赛报名时间",
+     "raw": "2026年4月-6月",
+     "start": "2026-04",
+     "end": "2026-04",
+     "precision": "month"
+    }
+   ],
+   "organizer": "中国机械工程学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23579-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23561",
+   "title_raw": "普通高校大学生人文类竞赛分析报告首次发布",
+   "title": "普通高校大学生人文类竞赛分析报告首次发布",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23561-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23560",
+   "title_raw": "普通高校大学生商科类竞赛指数（2026版）发布",
+   "title": "普通高校大学生商科类竞赛指数（2026版）发布",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23560-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23559",
+   "title_raw": "普通高校大学生创新创业类竞赛指数（2026版）发布",
+   "title": "普通高校大学生创新创业类竞赛指数（2026版）发布",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23559-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23552",
+   "title_raw": "【榜单赛事】第35届金犊奖国际竞赛",
+   "title": "第35届金犊奖国际竞赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "作品征集",
+     "raw": "2026年3月15日-5月15日",
+     "start": "2026-03-15",
+     "end": "2026-03-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "旺旺集团、时报集团",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23552-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23550",
+   "title_raw": "【榜单赛事】2026年第十二届东方设计奖·全国高校创新设计大赛",
+   "title": "2026年第十二届东方设计奖·全国高校创新设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "线上报名",
+     "raw": "2026年3月-6月",
+     "start": "2026-03",
+     "end": "2026-03",
+     "precision": "month"
+    }
+   ],
+   "organizer": "国家工业设计研究院",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23550-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23555",
+   "title_raw": "【榜单赛事】2026第七届东方创意之星创新设计大赛高教赛道作品征集",
+   "title": "2026第七届东方创意之星创新设计大赛高教赛道作品征集",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "作品征集截稿日期",
+     "raw": "2026年6月30日",
+     "start": "2026-06-30",
+     "end": "2026-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23555-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23540",
+   "title_raw": "【榜单竞赛】第三届（2026）中国高校计算机大赛-AIGC创新赛竞赛",
+   "title": "第三届（2026）中国高校计算机大赛-AIGC创新赛竞赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [],
+   "organizer": "教育部高等学校计算机类专业教学指导委员会、教育部高等学校软件工程专业教学指导委员",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23540-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23538",
+   "title_raw": "【榜单赛事】2026年“大工能动杯”第十九届全国大学生节能减排社会实践与科技竞赛第一轮通知",
+   "title": "2026年“大工能动杯”第十九届全国大学生节能减排社会实践与科技竞赛第一轮通知",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年4月12日18:00前",
+     "start": "2026-04-12",
+     "end": "2026-04-12",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国大学生节能减排社会实践与科技竞赛委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23538-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23535",
+   "title_raw": "【榜单竞赛】第十一届中国大学生人力资源创新实践大赛（HRU）开启预报名",
+   "title": "第十一届中国大学生人力资源创新实践大赛（HRU）开启预报名",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年6月30日",
+     "start": "2026-06-30",
+     "end": "2026-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23535-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23519",
+   "title_raw": "【榜单赛事】十四届全国大学生光电设计竞赛",
+   "title": "十四届全国大学生光电设计竞赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "国赛推荐截止日期",
+     "raw": "2026年6月5日",
+     "start": "2026-06-05",
+     "end": "2026-06-05",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23519-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23505",
+   "title_raw": "【榜单赛事】2026 年“天正设计杯” 第二十届全国大学生化工设计竞赛通知",
+   "title": "2026 年“天正设计杯” 第二十届全国大学生化工设计竞赛通知",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23505-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23497",
+   "title_raw": "【榜单赛事】关于举办“第十七届中国大学生服务外包创新创业大赛”的通知（已延长报名至3月31日）",
+   "title": "关于举办“第十七届中国大学生服务外包创新创业大赛”的通知（已延长报名至3月31日）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2026年2月11日至2026年3月31日 16:00 止",
+     "start": "2026-02-11",
+     "end": "2026-03-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23497-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23492",
+   "title_raw": "【榜单赛事】关于开展2026年第二十届CIMC“西门子杯”中国智能制造挑战赛的通知",
+   "title": "关于开展2026年第二十届CIMC“西门子杯”中国智能制造挑战赛的通知",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2026年3月1日至5月31日",
+     "start": "2026-03-01",
+     "end": "2026-03-01",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23492-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23485",
+   "title_raw": "【榜单赛事】2026年第18届全国大学生广告艺术大赛参赛指南",
+   "title": "2026年第18届全国大学生广告艺术大赛参赛指南",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "线上提交",
+     "raw": "2026年5月10日至6月12日16:00",
+     "start": "2026-05-10",
+     "end": "2026-05-10",
+     "precision": "day"
+    },
+    {
+     "name": "营销创客单元海选提交时间",
+     "raw": "2026年3月10日至4月10日22:00",
+     "start": "2026-03-10",
+     "end": "2026-03-10",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23485-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23484",
+   "title_raw": "【榜单竞赛】第十一届全国大学生生命科学竞赛（创新创业类）",
+   "title": "第十一届全国大学生生命科学竞赛（创新创业类）",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "网上申报截止时间",
+     "raw": "2026年4月20日",
+     "start": "2026-04-20",
+     "end": "2026-04-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23484-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23479",
+   "title_raw": "【榜单赛事】2026年全国企业竞争模拟大赛",
+   "title": "2026年全国企业竞争模拟大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "校内初赛报名与选拔截止日期",
+     "raw": "2026年3月22日",
+     "start": "2026-03-22",
+     "end": "2026-03-22",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国管理现代化研究会决策模拟专业委员会承办单位：全国企业竞争模拟大赛组委会、华北",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23479-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23418",
+   "title_raw": "【榜单赛事】第十九届全国大学生结构设计竞赛",
+   "title": "第十九届全国大学生结构设计竞赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "总决赛时间",
+     "raw": "2026年10月14日至18日",
+     "start": "2026-10-14",
+     "end": "2026-10-14",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23418-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23416",
+   "title_raw": "【榜单赛事】2026年第十五届全国大学生金相技能大赛",
+   "title": "2026年第十五届全国大学生金相技能大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年3月31日18:00",
+     "start": "2026-03-31",
+     "end": "2026-03-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23416-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23414",
+   "title_raw": "【榜单赛事】关于举办第二十五届全国大学生机器人大赛 ROBOMASTER 赛事的通知",
+   "title": "关于举办第二十五届全国大学生机器人大赛 ROBOMASTER 赛事的通知",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23414-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23369",
+   "title_raw": "【榜单竞赛】2026一带一路暨金砖国家技能发展与技术创新大赛之技术创新赛",
+   "title": "2026一带一路暨金砖国家技能发展与技术创新大赛之技术创新赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "征集截止",
+     "raw": "2026年2月上旬",
+     "start": "2026-02",
+     "end": "2026-02",
+     "precision": "month"
+    }
+   ],
+   "organizer": "金砖国家工商理事会中方理事会、一带一路暨金砖国家技能发展国际联盟、“一带一路”暨",
+   "published": "2025-12-30 09:24",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23369-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23345",
+   "title_raw": "【榜单赛事】2026年第九届中国高校智能机器人创意大赛（1号通知）",
+   "title": "2026年第九届中国高校智能机器人创意大赛（1号通知）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止",
+     "raw": "2026年5月8日",
+     "start": "2026-05-08",
+     "end": "2026-05-08",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2025-12-17 14:59",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23345-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23346",
+   "title_raw": "【榜单赛事】2026年码蹄杯大赛正式开启报名",
+   "title": "2026年码蹄杯大赛正式开启报名",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "截止时间",
+     "raw": "2026年2月16日（除夕）晚24点",
+     "start": "2026-02-16",
+     "end": "2026-02-16",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2025-12-15 09:52",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23346-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23323",
+   "title_raw": "【榜单竞赛】第十三届“学创杯“全国大学生创业综合模拟演训活动",
+   "title": "第十三届“学创杯“全国大学生创业综合模拟演训活动",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23323-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23324",
+   "title_raw": "【榜单赛事】2026年全国大学生电子设计竞赛专题竞赛",
+   "title": "2026年全国大学生电子设计竞赛专题竞赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23324-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23303",
+   "title_raw": "【榜单赛事】第十九届全国大学生软件创新大赛（软件设计创新赛）",
+   "title": "第十九届全国大学生软件创新大赛（软件设计创新赛）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2025年12月2日10:00-2026年2月2日18:00",
+     "start": "2025-12-02",
+     "end": "2026-02-02",
+     "precision": "day"
+    }
+   ],
+   "organizer": "示范性软件学院联盟",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23303-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22445",
+   "title_raw": "【榜单赛事】2025年第四届全国大学生普通话大赛报名通知！",
+   "title": "2025年第四届全国大学生普通话大赛报名通知！",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名及初赛时间",
+     "raw": "即日起至2025年12月30日 大赛官网：http://pth.52jingsai.com/",
+     "start": "2025-12-30",
+     "end": "2025-12-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2025-11-24 16:41",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22445-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22424",
+   "title_raw": "【榜单竞赛，不限专业】2025年全国大学生汉语大赛报名通知！",
+   "title": "2025年全国大学生汉语大赛报名通知！",
+   "tags": [
+    "榜单竞赛",
+    "不限专业"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年12月19日",
+     "start": "2025-12-19",
+     "end": "2025-12-19",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22424-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23176",
+   "title_raw": "【榜单竞赛】全国大学生结构设计信息技术大赛",
+   "title": "全国大学生结构设计信息技术大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年12月1日",
+     "start": "2025-12-01",
+     "end": "2025-12-01",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23176-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23237",
+   "title_raw": "【榜单赛事】第二十五届全国大学生机器人大赛ROBOCON赛事",
+   "title": "第二十五届全国大学生机器人大赛ROBOCON赛事",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "全国大学生机器人大赛组织委员会",
+   "published": "2025-10-31 15:10",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23237-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22464",
+   "title_raw": "【初赛免费报名参与】第三届全国大学生教育教学能力大赛",
+   "title": "第三届全国大学生教育教学能力大赛",
+   "tags": [
+    "初赛免费报名参与"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年12月12日",
+     "start": "2025-12-12",
+     "end": "2025-12-12",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2025-10-31 13:21",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22464-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23227",
+   "title_raw": "【2026年美赛】美国大学生数学建模竞赛，参赛规则有更新！",
+   "title": "美国大学生数学建模竞赛，参赛规则有更新！",
+   "tags": [
+    "2026年美赛"
+   ],
+   "phases": [
+    {
+     "name": "注册截止日期",
+     "raw": "2026年1月29日星期四下午3:00（美国东部时间）之前（北京时间2026年1月30日03:00）",
+     "start": "2026-01-29",
+     "end": "2026-01-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2025-10-31 10:41",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23227-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22478",
+   "title_raw": "【榜单赛事】2025年第七届全国大学生语言文字能力大赛写作专项赛报名通知！",
+   "title": "2025年第七届全国大学生语言文字能力大赛写作专项赛报名通知！",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年11月14日中午12点",
+     "start": "2025-11-14",
+     "end": "2025-11-14",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": "2025-10-23 17:12",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22478-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23204",
+   "title_raw": "【榜单赛事】2026年第十二届全国大学生能源经济学术创意大赛",
+   "title": "2026年第十二届全国大学生能源经济学术创意大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "活动报名截止时间",
+     "raw": "2025年11月16日",
+     "start": "2025-11-16",
+     "end": "2025-11-16",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国优选法统筹法与经济数学研究会",
+   "published": "2025-10-23 11:52",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23204-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23178",
+   "title_raw": "【榜单竞赛】2025年第20届中国好创意廉洁文化创意专项赛",
+   "title": "2025年第20届中国好创意廉洁文化创意专项赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年11月15日17:00",
+     "start": "2025-11-15",
+     "end": "2025-11-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2025-10-16 17:41",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23178-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22484",
+   "title_raw": "2025年第七届全国大学生语言文字能力大赛诵读专项赛",
+   "title": "2025年第七届全国大学生语言文字能力大赛诵读专项赛",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年11月21日中午12点",
+     "start": "2025-11-21",
+     "end": "2025-11-21",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": "2025-10-13 17:39",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22484-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23170",
+   "title_raw": "【榜单竞赛】“正大杯”第十六届全国大学生市场调查与分析大赛",
+   "title": "“正大杯”第十六届全国大学生市场调查与分析大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "参赛报名截止时间",
+     "raw": "2025年10月31日",
+     "start": "2025-10-31",
+     "end": "2025-10-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国商业统计学会",
+   "published": "2025-10-11 16:34",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23170-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22480",
+   "title_raw": "2025年第七届全国大学生语言文字能力大赛规范字专项赛报名通知",
+   "title": "2025年第七届全国大学生语言文字能力大赛规范字专项赛报名通知",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年11月21日中午12点",
+     "start": "2025-11-21",
+     "end": "2025-11-21",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": "2025-10-10 17:24",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22480-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23208",
+   "title_raw": "【榜单竞赛】第十六届全国大学生电子商务“创新、创意及创业”挑战赛",
+   "title": "第十六届全国大学生电子商务“创新、创意及创业”挑战赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2026年1月20日24点",
+     "start": "2026-01-20",
+     "end": "2026-01-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国电子商务产教融合创新联盟、西安交通大学",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23208-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23166",
+   "title_raw": "【榜单竞赛】2025年iCAN大学生创新创业大赛未来机器人创业挑战赛",
+   "title": "2025年iCAN大学生创新创业大赛未来机器人创业挑战赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2025年9月1日至10月31日",
+     "start": "2025-09-01",
+     "end": "2025-09-01",
+     "precision": "day"
+    }
+   ],
+   "organizer": "iCAN大学生创新创业大赛组委会、北京市昌平区人民政府",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23166-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23059",
+   "title_raw": "【榜单竞赛，大数据】2025年第七届全国高校计算机能力挑战赛大数据挑战赛",
+   "title": "2025年第七届全国高校计算机能力挑战赛大数据挑战赛",
+   "tags": [
+    "榜单竞赛",
+    "大数据"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起-2025年11月15日",
+     "start": "2025-11-15",
+     "end": "2025-11-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23059-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23160",
+   "title_raw": "【榜单竞赛】第十二届国际高校BIM毕业设计创新大赛",
+   "title": "第十二届国际高校BIM毕业设计创新大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "常规赛道报名截止时间",
+     "raw": "2025年11月28日",
+     "start": "2025-11-28",
+     "end": "2025-11-28",
+     "precision": "day"
+    },
+    {
+     "name": "创新赛道报名截止时间",
+     "raw": "2026年1月30日",
+     "start": "2026-01-30",
+     "end": "2026-01-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国土木工程学会建筑市场与招标投标研究分会、国家数字建筑行业产教融合共同体、广",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23160-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23179",
+   "title_raw": "第六届全国智慧城市与智能建造大学生创新创业竞赛（企业专题竞赛）",
+   "title": "第六届全国智慧城市与智能建造大学生创新创业竞赛（企业专题竞赛）",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止日期",
+     "raw": "2025年11月7日 14:00",
+     "start": "2025-11-07",
+     "end": "2025-11-07",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23179-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23139",
+   "title_raw": "【榜单竞赛】第十届华为ICT大赛中国赛",
+   "title": "第十届华为ICT大赛中国赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2025年9月10日-10月31日",
+     "start": "2025-09-10",
+     "end": "2025-09-10",
+     "precision": "day"
+    }
+   ],
+   "organizer": "华为技术有限公司",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23139-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22426",
+   "title_raw": "【榜单赛事】2025年度第九届跨境电商专业能力大赛",
+   "title": "2025年度第九届跨境电商专业能力大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起-2025年11月14日",
+     "start": "2025-11-14",
+     "end": "2025-11-14",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国对外贸易经济合作企业协会",
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22426-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22452",
+   "title_raw": "【榜单竞赛，计算机】2025年第七届全国高校计算机能力挑战赛",
+   "title": "2025年第七届全国高校计算机能力挑战赛",
+   "tags": [
+    "榜单竞赛",
+    "计算机"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起-2025年11月19日",
+     "start": "2025-11-19",
+     "end": "2025-11-19",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22452-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22981",
+   "title_raw": "【榜单竞赛】2025年全国大学生数字媒体科技作品及创意竞赛",
+   "title": "2025年全国大学生数字媒体科技作品及创意竞赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年09月21日24:00",
+     "start": "2025-09-21",
+     "end": "2025-09-21",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国人工智能学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22981-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22717",
+   "title_raw": "普通高校大学生创新创业类竞赛指数（2025版）发布",
+   "title": "普通高校大学生创新创业类竞赛指数（2025版）发布",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22717-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22716",
+   "title_raw": "普通高校大学生外语类竞赛分析报告首次发布",
+   "title": "普通高校大学生外语类竞赛分析报告首次发布",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22716-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22660",
+   "title_raw": "【榜单赛事】第十六届“工行杯”全国大学生金融科技创新大赛",
+   "title": "第十六届“工行杯”全国大学生金融科技创新大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年10月截止",
+     "start": "2025-10",
+     "end": "2025-10",
+     "precision": "month"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22660-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22529",
+   "title_raw": "【榜单竞赛】第十届两岸新锐设计竞赛·华灿奖",
+   "title": "第十届两岸新锐设计竞赛·华灿奖",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "创意赛道作品征集截止时间",
+     "raw": "2025年9月30日17:00",
+     "start": "2025-09-30",
+     "end": "2025-09-30",
+     "precision": "day"
+    },
+    {
+     "name": "校赛截止时间",
+     "raw": "2025年10月20日17:00",
+     "start": "2025-10-20",
+     "end": "2025-10-20",
+     "precision": "day"
+    },
+    {
+     "name": "赛区赛截止时间",
+     "raw": "2025年11月10日17:00",
+     "start": "2025-11-10",
+     "end": "2025-11-10",
+     "precision": "day"
+    },
+    {
+     "name": "定向主题作品征集截止时间",
+     "raw": "2025年11月10日17:00",
+     "start": "2025-11-10",
+     "end": "2025-11-10",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22529-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22594",
+   "title_raw": "【榜单赛事】第十一届全国大学生生命科学竞赛（科学探究类）",
+   "title": "第十一届全国大学生生命科学竞赛（科学探究类）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "高等教育学会榜单赛事",
+     "raw": "2025年第十一届全国大学生生命科学竞赛（科学探究类）",
+     "start": null,
+     "end": null,
+     "precision": "unknown"
+    },
+    {
+     "name": "报名截止时间",
+     "raw": "2026年1月15日",
+     "start": "2026-01-15",
+     "end": "2026-01-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22594-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22485",
+   "title_raw": "【榜单赛事】2025年第七届全国大学生语言文字能力大赛青年教师语言文字教学专项赛",
+   "title": "2025年第七届全国大学生语言文字能力大赛青年教师语言文字教学专项赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年11月28日下午5点",
+     "start": "2025-11-28",
+     "end": "2025-11-28",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22485-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22454",
+   "title_raw": "【榜单竞赛，Office高级应用赛】2025年第七届全国高校计算机能力挑战赛",
+   "title": "2025年第七届全国高校计算机能力挑战赛",
+   "tags": [
+    "榜单竞赛",
+    "Office高级应用赛"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起-2025年11月19日",
+     "start": "2025-11-19",
+     "end": "2025-11-19",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22454-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22368",
+   "title_raw": "2025年第十七届全国大学生数学竞赛",
+   "title": "2025年第十七届全国大学生数学竞赛",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22368-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22394",
+   "title_raw": "【榜单竞赛，计算机】2025中国高校计算机大赛——大数据挑战赛",
+   "title": "2025中国高校计算机大赛——大数据挑战赛",
+   "tags": [
+    "榜单竞赛",
+    "计算机"
+   ],
+   "phases": [
+    {
+     "name": "报名截止",
+     "raw": "2025年7月15日中午12:00",
+     "start": "2025-07-15",
+     "end": "2025-07-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22394-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22381",
+   "title_raw": "【榜单竞赛】2025年全国本科院校税收风险管控案例大赛",
+   "title": "2025年全国本科院校税收风险管控案例大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "分区赛",
+     "raw": "2025年10月13日（暂定)",
+     "start": "2025-10-13",
+     "end": "2025-10-13",
+     "precision": "day"
+    },
+    {
+     "name": "总决赛",
+     "raw": "2025年12月6日-7日（暂定）",
+     "start": "2025-12-06",
+     "end": "2025-12-06",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22381-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22367",
+   "title_raw": "挑战杯最新通知丨2025年第十九届“挑战杯”全国大学生课外学术科技作品竞赛来啦！",
+   "title": "挑战杯最新通知丨2025年第十九届“挑战杯”全国大学生课外学术科技作品竞赛来啦！",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22367-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22360",
+   "title_raw": "重要发布！第3轮“普通高校大学生艺术与设计大类竞赛指数”（2025版）",
+   "title": "重要发布！第3轮“普通高校大学生艺术与设计大类竞赛指数”（2025版）",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22360-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22359",
+   "title_raw": "重磅发布！第2轮“普通高校大学生商科类竞赛指数”（2025版）",
+   "title": "重磅发布！第2轮“普通高校大学生商科类竞赛指数”（2025版）",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22359-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22358",
+   "title_raw": "重要发布！第6轮“普通高校大学生机器人竞赛指数”（2025版）",
+   "title": "重要发布！第6轮“普通高校大学生机器人竞赛指数”（2025版）",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22358-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22357",
+   "title_raw": "重磅发布！普通高校大学生计算机竞赛指数（本科，2025版）",
+   "title": "重磅发布！普通高校大学生计算机竞赛指数（本科，2025版）",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22357-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22335",
+   "title_raw": "重磅！多个高校大学生竞赛指数、竞赛画像，高校竞赛分档榜，公布！",
+   "title": "重磅！多个高校大学生竞赛指数、竞赛画像，高校竞赛分档榜，公布！",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22335-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22327",
+   "title_raw": "【榜单赛事】2025年中国大学生机械工程创新创意大赛",
+   "title": "2025年中国大学生机械工程创新创意大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22327-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22027",
+   "title_raw": "【榜单赛事】2025年第七届全国大学生语言文字能力大赛报名通知！",
+   "title": "2025年第七届全国大学生语言文字能力大赛报名通知！",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22027-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22267",
+   "title_raw": "【榜单赛事】2025年中国国际大学生创新大赛（原“互联网+”大赛）",
+   "title": "2025年中国国际大学生创新大赛（原“互联网+”大赛）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22267-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22257",
+   "title_raw": "【榜单赛事】2025年全国数字建筑创新应用大赛",
+   "title": "2025年全国数字建筑创新应用大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "大赛报名截止时间",
+     "raw": "2025年8月14日",
+     "start": "2025-08-14",
+     "end": "2025-08-14",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国建设教育协会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22257-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22262",
+   "title_raw": "【高教社杯】2025高教社杯全国大学生数学建模竞赛第一次通知",
+   "title": "2025高教社杯全国大学生数学建模竞赛第一次通知",
+   "tags": [
+    "高教社杯"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22262-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22116",
+   "title_raw": "【榜单竞赛】2025年全国大学生电子设计竞赛",
+   "title": "2025年全国大学生电子设计竞赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止",
+     "raw": "2025年5月31日",
+     "start": "2025-05-31",
+     "end": "2025-05-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22116-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22229",
+   "title_raw": "2025第18届全国三维数字化创新设计大赛",
+   "title": "2025第18届全国三维数字化创新设计大赛",
+   "tags": [],
+   "phases": [
+    {
+     "name": "初赛报名截止时间",
+     "raw": "2025年6月30日",
+     "start": "2025-06-30",
+     "end": "2025-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国三维数字化创新设计大赛组委会、国家制造业信息化培训中心、全国3D",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22229-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22203",
+   "title_raw": "【榜单竞赛】2025年中国大学生机械工程创新创意大赛第八届智能制造赛",
+   "title": "2025年中国大学生机械工程创新创意大赛第八届智能制造赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [],
+   "organizer": "中国机械工程学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22203-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22186",
+   "title_raw": "【挑战杯】第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛",
+   "title": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛",
+   "tags": [
+    "挑战杯"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22186-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22196",
+   "title_raw": "2025年第十三届全国大学生光电设计竞赛",
+   "title": "2025年第十三届全国大学生光电设计竞赛",
+   "tags": [],
+   "phases": [
+    {
+     "name": "举行时间",
+     "raw": "2025年8月19 日至 22 日",
+     "start": "2025-08-19",
+     "end": "2025-08-19",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国光学学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22196-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22185",
+   "title_raw": "【排行榜赛事】2025年第十九届CIMC“西门子杯”中国智能制造挑战赛",
+   "title": "2025年第十九届CIMC“西门子杯”中国智能制造挑战赛",
+   "tags": [
+    "排行榜赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2025年3月1日至5月31日",
+     "start": "2025-03-01",
+     "end": "2025-03-01",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22185-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22181",
+   "title_raw": "【教育部、国家语委主办】第七届中华经典诵写讲大赛",
+   "title": "第七届中华经典诵写讲大赛",
+   "tags": [
+    "教育部",
+    "国家语委主办"
+   ],
+   "phases": [],
+   "organizer": "教育部、国家语委",
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22181-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22285",
+   "title_raw": "【百万奖金，免费参赛】2025年第七届全国高校计算机能力挑战赛人工智能赛暨腾讯开悟人工智能全球公开赛正式启动！",
+   "title": "2025年第七届全国高校计算机能力挑战赛人工智能赛暨腾讯开悟人工智能全球公开赛正式启动！",
+   "tags": [
+    "百万奖金",
+    "免费参赛"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "即日起—2025年7月15日 大赛官网：http://www.ncccu.org.cn 全国高校计算机能力 ...",
+     "start": "2025-07-15",
+     "end": "2025-07-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22285-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22165",
+   "title_raw": "【榜单竞赛】第十二届“学创杯”全国大学生创业综合模拟演训活动",
+   "title": "第十二届“学创杯”全国大学生创业综合模拟演训活动",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22165-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22149",
+   "title_raw": "【榜单赛事】第二十七届中国机器人及人工智能大赛",
+   "title": "第二十七届中国机器人及人工智能大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22149-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22142",
+   "title_raw": "【榜单竞赛】2025时报金犊奖",
+   "title": "2025时报金犊奖",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22142-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22137",
+   "title_raw": "【榜单竞赛，大广赛】2025年第17届全国大学生广告艺术大赛参赛指南",
+   "title": "2025年第17届全国大学生广告艺术大赛参赛指南",
+   "tags": [
+    "榜单竞赛",
+    "大广赛"
+   ],
+   "phases": [
+    {
+     "name": "普通赛道提交时间",
+     "raw": "2025年5月10日-6月12日16:00",
+     "start": "2025-05-10",
+     "end": "2025-05-10",
+     "precision": "day"
+    },
+    {
+     "name": "营销创客类赛道提交时间",
+     "raw": "2025年3月5日-3月30日16:00",
+     "start": "2025-03-05",
+     "end": "2025-03-05",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22137-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22135",
+   "title_raw": "【榜单竞赛，C4大赛】第十届（ 2025 年）中国高校计算机大赛",
+   "title": "第十届（ 2025 年）中国高校计算机大赛",
+   "tags": [
+    "榜单竞赛",
+    "C4大赛"
+   ],
+   "phases": [],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22135-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22072",
+   "title_raw": "【榜单竞赛】第二十届全国大学生智能汽车竞赛",
+   "title": "第二十届全国大学生智能汽车竞赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年6月15日",
+     "start": "2025-06-15",
+     "end": "2025-06-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国自动化学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22072-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22055",
+   "title_raw": "【榜单赛事】2025年第十八届全国大学生结构设计竞赛",
+   "title": "2025年第十八届全国大学生结构设计竞赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "比赛时间",
+     "raw": "2025年4月-7月",
+     "start": "2025-04",
+     "end": "2025-04",
+     "precision": "month"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22055-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22052",
+   "title_raw": "【榜单赛事】2025年（第18届）中国大学生计算机设计大赛",
+   "title": "2025年（第18届）中国大学生计算机设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22052-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22032",
+   "title_raw": "【榜单赛事】第十届全国大学生生命科学竞赛（创新创业类）",
+   "title": "第十届全国大学生生命科学竞赛（创新创业类）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "网上申报",
+     "raw": "2025年1月7日-2025年4月15日",
+     "start": "2025-01-07",
+     "end": "2025-04-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22032-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "22006",
+   "title_raw": "【榜单赛事，设计竞赛】2025第13届未来设计师大赛·全国高校数字艺术设计大赛",
+   "title": "2025第13届未来设计师大赛·全国高校数字艺术设计大赛",
+   "tags": [
+    "榜单赛事",
+    "设计竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年6月20日",
+     "start": "2025-06-20",
+     "end": "2025-06-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": "工业和信息化部人才交流中心、未来设计师·全国高校数字艺术设计大赛组委会",
+   "published": "2024-12-26 17:22",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-22006-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21998",
+   "title_raw": "【榜单竞赛，大广赛】第17届全国大学生广告艺术大赛",
+   "title": "第17届全国大学生广告艺术大赛",
+   "tags": [
+    "榜单竞赛",
+    "大广赛"
+   ],
+   "phases": [
+    {
+     "name": "征集截止时间",
+     "raw": "2025年6月12日16:00",
+     "start": "2025-06-12",
+     "end": "2025-06-12",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2024-12-23 09:15",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21998-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21913",
+   "title_raw": "【榜单赛事】第十八届全国大学生软件创新大赛——软件设计创新赛",
+   "title": "第十八届全国大学生软件创新大赛——软件设计创新赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年1月3日18:00",
+     "start": "2025-01-03",
+     "end": "2025-01-03",
+     "precision": "day"
+    }
+   ],
+   "organizer": "示范性软件学院联盟",
+   "published": "2024-11-26 13:30",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21913-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21691",
+   "title_raw": "【榜单竞赛】2024时报金犊奖国际竞赛「非命题赛事」正式开启！",
+   "title": "2024时报金犊奖国际竞赛「非命题赛事」正式开启！",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "作品征集截止时间延期至",
+     "raw": "2024年12月31日",
+     "start": "2024-12-31",
+     "end": "2024-12-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": "旺旺中时媒体集团",
+   "published": "2024-11-22 13:54",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21691-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21898",
+   "title_raw": "【榜单竞赛】2024第八届金砖国家技能发展与技术创新大赛",
+   "title": "2024第八届金砖国家技能发展与技术创新大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [],
+   "organizer": "金砖国家工商理事会中方理事会、一带一路暨金砖国家技能发展国际联盟、中国科协“一带",
+   "published": "2024-11-21 16:42",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21898-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21847",
+   "title_raw": "【榜单赛事】第二十四届全国大学生机器人大赛",
+   "title": "第二十四届全国大学生机器人大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "全国大学生机器人大赛组委会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21847-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21805",
+   "title_raw": "【榜单竞赛】2025年全国高校商业精英挑战赛会计与商业管理案例竞赛",
+   "title": "2025年全国高校商业精英挑战赛会计与商业管理案例竞赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "参赛院校报名登记截止时间",
+     "raw": "2025年3月25日前",
+     "start": "2025-03-25",
+     "end": "2025-03-25",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国贸促会商业行业委员会、中国国际商会商业行业商会、中国商业经济学会",
+   "published": "2024-10-23 14:14",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21805-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21753",
+   "title_raw": "【三创赛，文内领大赛资料】第十五届全国大学生电子商务“创新、创意及创业”挑战赛",
+   "title": "第十五届全国大学生电子商务“创新、创意及创业”挑战赛",
+   "tags": [
+    "三创赛",
+    "文内领大赛资料"
+   ],
+   "phases": [
+    {
+     "name": "报名时间延期至",
+     "raw": "2025年1月20日24点",
+     "start": "2025-01-20",
+     "end": "2025-01-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": "教育部高校电子商务类专业教学指导委员会",
+   "published": "2024-10-12 16:34",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21753-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21335",
+   "title_raw": "【榜单赛事，多赛项】2024年第六届全国高校计算机能力挑战赛的通知",
+   "title": "2024年第六届全国高校计算机能力挑战赛的通知",
+   "tags": [
+    "榜单赛事",
+    "多赛项"
+   ],
+   "phases": [],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21335-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21614",
+   "title_raw": "【榜单赛事】2024年第九届“科云杯”全国大学生财会职业能力大赛",
+   "title": "2024年第九届“科云杯”全国大学生财会职业能力大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年10月18日",
+     "start": "2024-10-18",
+     "end": "2024-10-18",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国商业会计学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21614-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21518",
+   "title_raw": "【榜单赛事】关于举办2025年中国大学生工程实践与创新能力大赛的通知",
+   "title": "关于举办2025年中国大学生工程实践与创新能力大赛的通知",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "教育部工程训练教学指导委员会、2025年中国大学生工程实践与创新能力大赛组委会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21518-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21468",
+   "title_raw": "【榜单竞赛】第19届中国好创意暨全国数字艺术设计大赛",
+   "title": "第19届中国好创意暨全国数字艺术设计大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "报名及截稿时间",
+     "raw": "2024年10月20日—2025年6月30日17:00",
+     "start": "2024-10-20",
+     "end": "2025-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国电子视像行业协会、中国好创意暨全国数字艺术设计大赛组织委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21468-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21201",
+   "title_raw": "【榜单赛事】2024第八届一带一路暨金砖国家技能发展与技术创新大赛",
+   "title": "2024第八届一带一路暨金砖国家技能发展与技术创新大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "金砖国家工商理事会中方理事会、一带一路暨金砖国家技能发展国际联盟、中国科协“一带",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21201-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21200",
+   "title_raw": "【榜单赛事】第十一届全国大学生能源经济学术创意大赛",
+   "title": "第十一届全国大学生能源经济学术创意大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年11月17日",
+     "start": "2024-11-17",
+     "end": "2024-11-17",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国科学院战略咨询研究院",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21200-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21113",
+   "title_raw": "【榜单赛事，生命科学】第十届全国大学生生命科学竞赛（科学探究类）",
+   "title": "第十届全国大学生生命科学竞赛（科学探究类）",
+   "tags": [
+    "榜单赛事",
+    "生命科学"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2025年1月15日",
+     "start": "2025-01-15",
+     "end": "2025-01-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国大学生生命科学竞赛委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21113-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20663",
+   "title_raw": "2024年高教社杯全国大学生数学建模竞赛【文内可领真题资料】",
+   "title": "2024年高教社杯全国大学生数学建模竞赛【文内可领真题资料】",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止日期",
+     "raw": "2024年9月2日（周一）20时",
+     "start": "2024-09-02",
+     "end": "2024-09-02",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20663-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "21050",
+   "title_raw": "【榜单赛事】2024年第七届全国大学生工业设计大赛",
+   "title": "2024年第七届全国大学生工业设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年7月30日",
+     "start": "2024-07-30",
+     "end": "2024-07-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国工业设计一流专业建设协同创新平台、广东省本科高校工业设计专业教学指导委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-21050-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20956",
+   "title_raw": "【2024年挑战杯】2024年第十四届“挑战杯”中国大学生创业计划竞赛",
+   "title": "2024年第十四届“挑战杯”中国大学生创业计划竞赛",
+   "tags": [
+    "2024年挑战杯"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20956-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20788",
+   "title_raw": "【2024年互联网+大赛】2024年中国国际大学生创新大赛（文内可领取历届大赛资料）",
+   "title": "2024年中国国际大学生创新大赛（文内可领取历届大赛资料）",
+   "tags": [
+    "2024年互联网+大赛"
+   ],
+   "phases": [
+    {
+     "name": "参赛报名时间",
+     "raw": "2024年5月—8月",
+     "start": "2024-05",
+     "end": "2024-05",
+     "precision": "month"
+    }
+   ],
+   "organizer": "教育部、中央统战部、中央网信办、国家发展改革委、工业和信息化部、人力",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20788-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20841",
+   "title_raw": "【挑战杯】第十九届“挑战杯”全国大学生课外学术科技作品竞赛2024年度“揭榜挂帅”专项赛（青年科技人才赛道）榜单发布啦！",
+   "title": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛2024年度“揭榜挂帅”专项赛（青年科技人才赛道）榜单发布啦！",
+   "tags": [
+    "挑战杯"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20841-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20824",
+   "title_raw": "【榜单赛事】第十三届“中国软件杯”大学生软件设计大赛",
+   "title": "第十三届“中国软件杯”大学生软件设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "工业和信息化部、教育部、江苏省人民政府",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20824-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20769",
+   "title_raw": "2024年第十八届CIMC西门子杯”中国智能制造挑战赛",
+   "title": "2024年第十八届CIMC西门子杯”中国智能制造挑战赛",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年5月31日",
+     "start": "2024-05-31",
+     "end": "2024-05-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": "教育部、西门子",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20769-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20739",
+   "title_raw": "【榜单赛事】第十一届“学创杯”全国大学生创业综合模拟大赛（文内领取大赛资料）",
+   "title": "第十一届“学创杯”全国大学生创业综合模拟大赛（文内领取大赛资料）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20739-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20735",
+   "title_raw": "2024年第六届中华经典诵写讲大赛",
+   "title": "2024年第六届中华经典诵写讲大赛",
+   "tags": [],
+   "phases": [],
+   "organizer": "教育部、国家语委",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20735-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20696",
+   "title_raw": "【榜单赛事】2024“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+   "title": "2024“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "校赛时间",
+     "raw": "2024年4月—10月",
+     "start": "2024-04",
+     "end": "2024-04",
+     "precision": "month"
+    }
+   ],
+   "organizer": "北京外国语大学",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20696-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20429",
+   "title_raw": "2024年第六届全国大学生语言文字能力大赛报名通知",
+   "title": "2024年第六届全国大学生语言文字能力大赛报名通知",
+   "tags": [],
+   "phases": [],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20429-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20671",
+   "title_raw": "【榜单赛事】第九届两岸新锐设计竞赛·华灿奖",
+   "title": "第九届两岸新锐设计竞赛·华灿奖",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "中国高等教育学会、中华中山文化交流协会、北京歌华传媒集",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20671-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20627",
+   "title_raw": "【榜单赛事】关于举办第十八届 iCAN 大学生创新创业大赛的预通知（文内领取4.5G创业计划模板）",
+   "title": "关于举办第十八届 iCAN 大学生创新创业大赛的预通知（文内领取4.5G创业计划模板）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名时间",
+     "raw": "2024年4月1日—7月31日",
+     "start": "2024-04-01",
+     "end": "2024-04-01",
+     "precision": "day"
+    }
+   ],
+   "organizer": "iCAN",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20627-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20606",
+   "title_raw": "刚刚发布｜《2023全国普通高校大学生竞赛分析报告》（含竞赛清单）",
+   "title": "刚刚发布｜《2023全国普通高校大学生竞赛分析报告》（含竞赛清单）",
+   "tags": [],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20606-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20603",
+   "title_raw": "【榜单赛事，化工设计】2024年“天正设计杯”第十八届全国大学生化工设计竞赛",
+   "title": "2024年“天正设计杯”第十八届全国大学生化工设计竞赛",
+   "tags": [
+    "榜单赛事",
+    "化工设计"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年3月31日",
+     "start": "2024-03-31",
+     "end": "2024-03-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国化工学会、中国化工教育协会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20603-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20526",
+   "title_raw": "【榜单赛事】2024年全国高校商业精英挑战赛创新创业竞赛创业计划赛道",
+   "title": "2024年全国高校商业精英挑战赛创新创业竞赛创业计划赛道",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年7月5日",
+     "start": "2024-07-05",
+     "end": "2024-07-05",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国贸促会商业行业委员会、中国国际商会商业行业商会、中国商业经济学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20526-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20512",
+   "title_raw": "【榜单赛事】第六届“求是杯”国际诗歌创作与翻译大赛",
+   "title": "第六届“求是杯”国际诗歌创作与翻译大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "征集截止时间",
+     "raw": "2024年5月30日24时",
+     "start": "2024-05-30",
+     "end": "2024-05-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20512-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20490",
+   "title_raw": "【榜单竞赛】第二十六届中国机器人及人工智能大赛",
+   "title": "第二十六届中国机器人及人工智能大赛",
+   "tags": [
+    "榜单竞赛"
+   ],
+   "phases": [
+    {
+     "name": "省级选拔赛完成时间",
+     "raw": "2024年6月30日前",
+     "start": "2024-06-30",
+     "end": "2024-06-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国机器人及人工智能大赛组委会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20490-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20477",
+   "title_raw": "【榜单竞赛，大广赛】2024年第16届全国大学生广告艺术大赛举办通知",
+   "title": "2024年第16届全国大学生广告艺术大赛举办通知",
+   "tags": [
+    "榜单竞赛",
+    "大广赛"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20477-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20466",
+   "title_raw": "【挑战杯】第十九届“挑战杯”全国大学生课外学术科技作品竞赛2024年度“揭榜挂帅”专项赛",
+   "title": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛2024年度“揭榜挂帅”专项赛",
+   "tags": [
+    "挑战杯"
+   ],
+   "phases": [
+    {
+     "name": "发榜时间",
+     "raw": "2024年3月",
+     "start": "2024-03",
+     "end": "2024-03",
+     "precision": "month"
+    }
+   ],
+   "organizer": null,
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20466-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20471",
+   "title_raw": "【榜单赛事 创新创业】2024年第八届全国大学生集成电路创新创业大赛报名通知！",
+   "title": "2024年第八届全国大学生集成电路创新创业大赛报名通知！",
+   "tags": [
+    "榜单赛事 创新创业"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年3月20日",
+     "start": "2024-03-20",
+     "end": "2024-03-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": "工业和信息化部人才交流中心",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20471-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20424",
+   "title_raw": "【榜单赛事】2024第三十三届时报金犊奖",
+   "title": "2024第三十三届时报金犊奖",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "作品征集截止时间",
+     "raw": "2024年5月",
+     "start": "2024-05",
+     "end": "2024-05",
+     "precision": "month"
+    }
+   ],
+   "organizer": "旺旺中时媒体集团",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20424-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20377",
+   "title_raw": "【榜单赛事】第十九届全国大学生智能汽车竞赛报名通知！",
+   "title": "第十九届全国大学生智能汽车竞赛报名通知！",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年6月15日",
+     "start": "2024-06-15",
+     "end": "2024-06-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国自动化学会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20377-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20360",
+   "title_raw": "【榜单赛事】第九届全国大学生生命科学竞赛（创新创业类）",
+   "title": "第九届全国大学生生命科学竞赛（创新创业类）",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "申报截止时间",
+     "raw": "2024年4月15日24点",
+     "start": "2024-04-15",
+     "end": "2024-04-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国大学生生命科学竞赛委员会、高等学校国家级实验教学示范中心联席会、《高校生物学",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20360-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20331",
+   "title_raw": "【榜单赛事】2024年（第17届）中国大学生计算机设计大赛",
+   "title": "2024年（第17届）中国大学生计算机设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20331-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20299",
+   "title_raw": "【榜单赛事】第十五届中国大学生服务外包创新创业大赛",
+   "title": "第十五届中国大学生服务外包创新创业大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2024年3月20日止",
+     "start": "2024-03-20",
+     "end": "2024-03-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国大学生服务外包创新创业大赛组委会",
+   "published": "2023-12-26 09:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20299-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "20027",
+   "title_raw": "【榜单赛事】第二十三届全国大学生机器人大赛",
+   "title": "第二十三届全国大学生机器人大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [],
+   "organizer": "全国大学生机器人大赛组委会",
+   "published": "2023-10-26 11:05",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-20027-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19971",
+   "title_raw": "【榜单赛事】“正大杯”第十四届全国大学生市场调查与分析大赛暨第十三届海峡两岸大学生市调大赛大陆地区选拔赛",
+   "title": "“正大杯”第十四届全国大学生市场调查与分析大赛暨第十三届海峡两岸大学生市调大赛大陆地区选拔赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年10月31日",
+     "start": "2023-10-31",
+     "end": "2023-10-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国商业统计学会",
+   "published": "2023-10-11 16:12",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19971-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19970",
+   "title_raw": "【榜单赛事，设计竞赛】2024第12届未来设计师·全国高校数字艺术设计大赛（NCDA）",
+   "title": "2024第12届未来设计师·全国高校数字艺术设计大赛（NCDA）",
+   "tags": [
+    "榜单赛事",
+    "设计竞赛"
+   ],
+   "phases": [
+    {
+     "name": "作品征集截止时间",
+     "raw": "2024年6月20日",
+     "start": "2024-06-20",
+     "end": "2024-06-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": "工业和信息化部人才交流中心、未来设计师·全国高校数字艺术设计大赛组委会",
+   "published": "2023-10-11 11:07",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19970-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19559",
+   "title_raw": "【榜单赛事】2023年第五届全国高校计算机能力挑战赛报名通知！",
+   "title": "2023年第五届全国高校计算机能力挑战赛报名通知！",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年11月24日",
+     "start": "2023-11-24",
+     "end": "2023-11-24",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国高等学校计算机教育研究会",
+   "published": "2023-10-10 11:01",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19559-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19943",
+   "title_raw": "【三创赛】2023-2024学年第十四届全国大学生电子商务“创新、创意及创业”挑战赛",
+   "title": "2023-2024学年第十四届全国大学生电子商务“创新、创意及创业”挑战赛",
+   "tags": [
+    "三创赛"
+   ],
+   "phases": [
+    {
+     "name": "参赛队报名截止时间",
+     "raw": "2024年1月20日24点",
+     "start": "2024-01-20",
+     "end": "2024-01-20",
+     "precision": "day"
+    }
+   ],
+   "organizer": "教育部高校电子商务类专业教学指导委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19943-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19907",
+   "title_raw": "【榜单赛事】2023年第四届“中译国青杯”国际组织文件翻译大赛",
+   "title": "2023年第四届“中译国青杯”国际组织文件翻译大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年11月10日24点",
+     "start": "2023-11-10",
+     "end": "2023-11-10",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国对外翻译有限公司",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19907-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19830",
+   "title_raw": "【榜单赛事，生命科学】第九届全国大学生生命科学竞赛（科学探究类）",
+   "title": "第九届全国大学生生命科学竞赛（科学探究类）",
+   "tags": [
+    "榜单赛事",
+    "生命科学"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年10月31日",
+     "start": "2023-10-31",
+     "end": "2023-10-31",
+     "precision": "day"
+    }
+   ],
+   "organizer": "全国大学生生命科学竞赛委员会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19830-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19340",
+   "title_raw": "【榜单赛事，数学建模】2023年高教社杯全国大学生数学建模竞赛（文内领往届资料）",
+   "title": "2023年高教社杯全国大学生数学建模竞赛（文内领往届资料）",
+   "tags": [
+    "榜单赛事",
+    "数学建模"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年9月4日20时",
+     "start": "2023-09-04",
+     "end": "2023-09-04",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19340-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19406",
+   "title_raw": "【榜单赛事】第十七届iCAN大学生创新创业大赛",
+   "title": "第十七届iCAN大学生创新创业大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年7月30日",
+     "start": "2023-07-30",
+     "end": "2023-07-30",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国信息协会",
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19406-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19373",
+   "title_raw": "2023年第十五届全国大学生数学竞赛（文内领历届真题解析）",
+   "title": "2023年第十五届全国大学生数学竞赛（文内领历届真题解析）",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年10月16日前",
+     "start": "2023-10-16",
+     "end": "2023-10-16",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19373-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19363",
+   "title_raw": "【创青春通知，榜单赛事】第十届创青春中国青年创新创业大赛（文内领大赛资料）",
+   "title": "第十届创青春中国青年创新创业大赛（文内领大赛资料）",
+   "tags": [
+    "创青春通知",
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年7月10日",
+     "start": "2023-07-10",
+     "end": "2023-07-10",
+     "precision": "day"
+    }
+   ],
+   "organizer": "共青团中央、人力资源社会保障部、农业农村部、商务部、国家卫生健康委、国家税务总局",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19363-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19428",
+   "title_raw": "【榜单赛事】第十二届“中国软件杯”大学生软件设计大赛",
+   "title": "第十二届“中国软件杯”大学生软件设计大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年7月10日",
+     "start": "2023-07-10",
+     "end": "2023-07-10",
+     "precision": "day"
+    }
+   ],
+   "organizer": "工业和信息化部、教育部、江苏省人民政府",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19428-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19335",
+   "title_raw": "【榜单赛事，学术学科】2023年第十八届“挑战杯”全国大学生课外学术科技作品竞赛（文内领资料大礼包）",
+   "title": "2023年第十八届“挑战杯”全国大学生课外学术科技作品竞赛（文内领资料大礼包）",
+   "tags": [
+    "榜单赛事",
+    "学术学科"
+   ],
+   "phases": [
+    {
+     "name": "作品报送截止时间",
+     "raw": "2023年6月15日",
+     "start": "2023-06-15",
+     "end": "2023-06-15",
+     "precision": "day"
+    }
+   ],
+   "organizer": "共青团中央、中国科协、教育部、中国社会科学院、全国学联",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19335-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19333",
+   "title_raw": "【榜单竞赛，创业比赛】2023年第九届中国国际“互联网+”大学生创新创业大赛（文内可领取历届大赛资料）",
+   "title": "2023年第九届中国国际“互联网+”大学生创新创业大赛（文内可领取历届大赛资料）",
+   "tags": [
+    "榜单竞赛",
+    "创业比赛"
+   ],
+   "phases": [
+    {
+     "name": "参赛报名时间",
+     "raw": "2023年5-8月",
+     "start": null,
+     "end": null,
+     "precision": "unknown"
+    }
+   ],
+   "organizer": "教育部",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19333-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "18618",
+   "title_raw": "【榜单赛事】2023年第五届全国大学生语言文字能力大赛报名通知",
+   "title": "2023年第五届全国大学生语言文字能力大赛报名通知",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2023年6月9日下午5点",
+     "start": "2023-06-09",
+     "end": "2023-06-09",
+     "precision": "day"
+    }
+   ],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-18618-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "19400",
+   "title_raw": "【榜单赛事】全国大学生先进成图技术与产品信息建模创新大赛",
+   "title": "全国大学生先进成图技术与产品信息建模创新大赛",
+   "tags": [
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "省赛报名截止时间",
+     "raw": "2023年4月30日",
+     "start": "2023-04-30",
+     "end": "2023-04-30",
+     "precision": "day"
+    },
+    {
+     "name": "国赛报名截止时间",
+     "raw": "2023年6月25日",
+     "start": "2023-06-25",
+     "end": "2023-06-25",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": null,
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-19400-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "18260",
+   "title_raw": "第十四届蓝桥杯全国软件和信息技术专业人才大赛",
+   "title": "第十四届蓝桥杯全国软件和信息技术专业人才大赛",
+   "tags": [],
+   "phases": [
+    {
+     "name": "报名截止时间",
+     "raw": "2022年12月16日",
+     "start": "2022-12-16",
+     "end": "2022-12-16",
+     "precision": "day"
+    }
+   ],
+   "organizer": null,
+   "published": "2026-10-22 16:35",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-18260-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  }
+ ]
+}
