@@ -7,7 +7,7 @@ X-WR-CALNAME:全国大学生竞赛时间轴
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:18260-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20221216
 SUMMARY:第十四届蓝桥杯全国软件和信息技术专业人才大赛 
  · 报名截止时间
@@ -16,7 +16,7 @@ URL:https://www.52jingsai.com/article-18260-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19400-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230430
 SUMMARY:全国大学生先进成图技术与产品信息建模创新大赛 
  · 省赛报名截止时间
@@ -25,7 +25,7 @@ URL:https://www.52jingsai.com/article-19400-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19400-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230625
 SUMMARY:全国大学生先进成图技术与产品信息建模创新大赛 
  · 国赛报名截止时间
@@ -34,7 +34,7 @@ URL:https://www.52jingsai.com/article-19400-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:18618-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230609
 SUMMARY:2023年第五届全国大学生语言文字能力大赛 · 报名
  截止时间
@@ -44,7 +44,7 @@ URL:https://www.52jingsai.com/article-18618-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19335-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230615
 SUMMARY:2023年第十八届“挑战杯”全国大学生课外学术科技
  作品竞赛（文内领资料大礼包） · 作品报送截止时间
@@ -54,7 +54,7 @@ URL:https://www.52jingsai.com/article-19335-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19428-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230710
 SUMMARY:第十二届“中国软件杯”大学生软件设计大赛 · 报
  名截止时间
@@ -64,7 +64,7 @@ URL:https://www.52jingsai.com/article-19428-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19363-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230710
 SUMMARY:第十届创青春中国青年创新创业大赛（文内领大赛
  资料） · 报名截止时间
@@ -75,7 +75,7 @@ URL:https://www.52jingsai.com/article-19363-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19406-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230730
 SUMMARY:第十七届iCAN大学生创新创业大赛 · 报名截止时间
 DESCRIPTION:中国信息协会\n来源: https://www.52jingsai.com/article-1
@@ -84,7 +84,7 @@ URL:https://www.52jingsai.com/article-19406-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19340-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20230904
 SUMMARY:2023年高教社杯全国大学生数学建模竞赛（文内领往
  届资料） · 报名截止时间
@@ -93,7 +93,7 @@ URL:https://www.52jingsai.com/article-19340-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19373-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20231016
 SUMMARY:2023年第十五届全国大学生数学竞赛（文内领历届真
  题解析） · 报名截止时间
@@ -102,7 +102,7 @@ URL:https://www.52jingsai.com/article-19373-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19971-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20231031
 SUMMARY:“正大杯”第十四届全国大学生市场调查与分析大
  赛暨第十三届海峡两岸大学生市调大赛大陆地区选拔赛 
@@ -113,7 +113,7 @@ URL:https://www.52jingsai.com/article-19971-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19830-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20231031
 SUMMARY:第九届全国大学生生命科学竞赛（科学探究类） · 
  报名截止时间
@@ -123,7 +123,7 @@ URL:https://www.52jingsai.com/article-19830-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19907-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20231110
 SUMMARY:2023年第四届“中译国青杯”国际组织文件翻译大赛
   · 报名截止时间
@@ -133,7 +133,7 @@ URL:https://www.52jingsai.com/article-19907-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19559-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20231124
 SUMMARY:2023年第五届全国高校计算机能力挑战赛 · 报名截
  止时间
@@ -143,7 +143,7 @@ URL:https://www.52jingsai.com/article-19559-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19943-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240120
 SUMMARY:2023-2024学年第十四届全国大学生电子商务“创新、
  创意及创业”挑战赛 · 参赛队报名截止时间
@@ -153,7 +153,7 @@ URL:https://www.52jingsai.com/article-19943-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20471-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240320
 SUMMARY:2024年第八届全国大学生集成电路创新创业大赛 · 
  报名截止时间
@@ -163,7 +163,7 @@ URL:https://www.52jingsai.com/article-20471-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20299-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240320
 SUMMARY:第十五届中国大学生服务外包创新创业大赛 · 报名
  截止时间
@@ -173,7 +173,7 @@ URL:https://www.52jingsai.com/article-20299-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20603-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240331
 SUMMARY:2024年“天正设计杯”第十八届全国大学生化工设计
  竞赛 · 报名截止时间
@@ -183,7 +183,7 @@ URL:https://www.52jingsai.com/article-20603-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20627-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240401
 SUMMARY:关于举办第十八届 iCAN 大学生创新创业大赛的预通
  知（文内领取4.5G创业计划模板） · 报名时间
@@ -192,7 +192,7 @@ URL:https://www.52jingsai.com/article-20627-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20824-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240615
 SUMMARY:第十三届“中国软件杯”大学生软件设计大赛 · 报
  名截止时间
@@ -202,7 +202,7 @@ URL:https://www.52jingsai.com/article-20824-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20824-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240401
 SUMMARY:第十三届“中国软件杯”大学生软件设计大赛 · (
  二)辅导阶段(拟定
@@ -212,7 +212,7 @@ URL:https://www.52jingsai.com/article-20824-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20824-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240701
 SUMMARY:第十三届“中国软件杯”大学生软件设计大赛 · 作
  品提交截止时间
@@ -222,7 +222,7 @@ URL:https://www.52jingsai.com/article-20824-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20360-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240415
 SUMMARY:第九届全国大学生生命科学竞赛（创新创业类） · 
  申报截止时间
@@ -233,7 +233,7 @@ URL:https://www.52jingsai.com/article-20360-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20671-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20241020
 SUMMARY:第九届两岸新锐设计竞赛·华灿奖 · 赛区赛时间
 DESCRIPTION:中国高等教育学会、中华中山文化交流协会、北
@@ -242,7 +242,7 @@ URL:https://www.52jingsai.com/article-20671-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20671-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240430
 SUMMARY:第九届两岸新锐设计竞赛·华灿奖 · 开放时间
 DESCRIPTION:中国高等教育学会、中华中山文化交流协会、北
@@ -251,7 +251,7 @@ URL:https://www.52jingsai.com/article-20671-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20429-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240531
 SUMMARY:2024年第六届全国大学生语言文字能力大赛 · 报名
 DESCRIPTION:中国语文报刊协会读写教学分会\n来源: https://www
@@ -260,7 +260,7 @@ URL:https://www.52jingsai.com/article-20429-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20429-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240528
 SUMMARY:2024年第六届全国大学生语言文字能力大赛 · （四
  ）省赛比赛场次预约时间
@@ -270,7 +270,7 @@ URL:https://www.52jingsai.com/article-20429-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20429-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240601
 SUMMARY:2024年第六届全国大学生语言文字能力大赛 · （五
  ）省赛时间
@@ -280,7 +280,7 @@ URL:https://www.52jingsai.com/article-20429-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20429-3@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240606
 SUMMARY:2024年第六届全国大学生语言文字能力大赛 · （六
  ）全国决赛入围名单公布时间
@@ -290,7 +290,7 @@ URL:https://www.52jingsai.com/article-20429-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20429-4@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240617
 SUMMARY:2024年第六届全国大学生语言文字能力大赛 · （八
  ）全国决赛评审时间
@@ -300,7 +300,7 @@ URL:https://www.52jingsai.com/article-20429-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20512-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240530
 SUMMARY:第六届“求是杯”国际诗歌创作与翻译大赛 · 征集
  截止时间
@@ -309,7 +309,7 @@ URL:https://www.52jingsai.com/article-20512-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20769-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240531
 SUMMARY:2024年第十八届CIMC西门子杯”中国智能制造挑战赛 
  · 报名截止时间
@@ -319,7 +319,7 @@ URL:https://www.52jingsai.com/article-20769-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20377-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240615
 SUMMARY:第十九届全国大学生智能汽车竞赛 · 报名截止时间
 DESCRIPTION:中国自动化学会\n来源: https://www.52jingsai.com/articl
@@ -328,7 +328,7 @@ URL:https://www.52jingsai.com/article-20377-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:19970-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240620
 SUMMARY:2024第12届未来设计师·全国高校数字艺术设计大赛
  （NCDA） · 作品征集截止时间
@@ -339,7 +339,7 @@ URL:https://www.52jingsai.com/article-19970-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20490-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240630
 SUMMARY:第二十六届中国机器人及人工智能大赛 · 省级选拔
  赛完成时间
@@ -349,7 +349,7 @@ URL:https://www.52jingsai.com/article-20490-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20526-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240705
 SUMMARY:2024年全国高校商业精英挑战赛创新创业竞赛创业计
  划赛道 · 报名截止时间
@@ -360,7 +360,7 @@ URL:https://www.52jingsai.com/article-20526-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21050-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240730
 SUMMARY:2024年第七届全国大学生工业设计大赛 · 报名截止
  时间
@@ -371,7 +371,7 @@ URL:https://www.52jingsai.com/article-21050-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21335-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240801
 SUMMARY:2024年第六届全国高校计算机能力挑战赛的 · 报名
  时间
@@ -381,7 +381,7 @@ URL:https://www.52jingsai.com/article-21335-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:20663-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20240902
 SUMMARY:2024年高教社杯全国大学生数学建模竞赛【文内可领
  真题资料】 · 报名截止日期
@@ -390,7 +390,7 @@ URL:https://www.52jingsai.com/article-20663-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21614-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20241018
 SUMMARY:2024年第九届“科云杯”全国大学生财会职业能力大
  赛 · 报名截止时间
@@ -400,7 +400,7 @@ URL:https://www.52jingsai.com/article-21614-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21468-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20241020
 DTEND;VALUE=DATE:20250701
 SUMMARY:第19届中国好创意暨全国数字艺术设计大赛 · 报名
@@ -412,7 +412,7 @@ URL:https://www.52jingsai.com/article-21468-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21200-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20241117
 SUMMARY:第十一届全国大学生能源经济学术创意大赛 · 报名
  截止时间
@@ -422,7 +422,7 @@ URL:https://www.52jingsai.com/article-21200-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21691-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20241231
 SUMMARY:2024时报金犊奖国际竞赛「非命题赛事」正式开启 ·
   作品征集截止时间延期至
@@ -432,7 +432,7 @@ URL:https://www.52jingsai.com/article-21691-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21913-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250103
 SUMMARY:第十八届全国大学生软件创新大赛——软件设计创
  新赛 · 报名截止时间
@@ -442,7 +442,7 @@ URL:https://www.52jingsai.com/article-21913-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22032-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250107
 DTEND;VALUE=DATE:20250416
 SUMMARY:第十届全国大学生生命科学竞赛（创新创业类） · 
@@ -452,7 +452,7 @@ URL:https://www.52jingsai.com/article-22032-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21113-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250115
 SUMMARY:第十届全国大学生生命科学竞赛（科学探究类） · 
  报名截止时间
@@ -462,7 +462,7 @@ URL:https://www.52jingsai.com/article-21113-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21753-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250120
 SUMMARY:第十五届全国大学生电子商务“创新、创意及创业
  ”挑战赛 · 报名时间延期至
@@ -472,7 +472,7 @@ URL:https://www.52jingsai.com/article-21753-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22185-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250301
 SUMMARY:2025年第十九届CIMC“西门子杯”中国智能制造挑战
  赛 · 报名时间
@@ -481,7 +481,7 @@ URL:https://www.52jingsai.com/article-22185-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22137-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250510
 SUMMARY:2025年第17届全国大学生广告艺术大赛参赛指南 · 普
  通赛道提交时间
@@ -490,7 +490,7 @@ URL:https://www.52jingsai.com/article-22137-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22137-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250305
 SUMMARY:2025年第17届全国大学生广告艺术大赛参赛指南 · 营
  销创客类赛道提交时间
@@ -499,7 +499,7 @@ URL:https://www.52jingsai.com/article-22137-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22135-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250324
 SUMMARY:第十届（ 2025 年）中国高校计算机大赛 · 管理员注
  册截止日期
@@ -509,7 +509,7 @@ URL:https://www.52jingsai.com/article-22135-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22135-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250601
 SUMMARY:第十届（ 2025 年）中国高校计算机大赛 · 初赛截止
  时间
@@ -519,7 +519,7 @@ URL:https://www.52jingsai.com/article-22135-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22135-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250606
 SUMMARY:第十届（ 2025 年）中国高校计算机大赛 · 报名截止
  时间
@@ -529,7 +529,7 @@ URL:https://www.52jingsai.com/article-22135-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21805-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250325
 SUMMARY:2025年全国高校商业精英挑战赛会计与商业管理案例
  竞赛 · 参赛院校报名登记截止时间
@@ -540,7 +540,7 @@ URL:https://www.52jingsai.com/article-21805-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250425
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · 赛区
  承办单位申请
@@ -549,7 +549,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250530
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · 协办
  院校征集时间
@@ -558,7 +558,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250606
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · 报名
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-22027-1.html
@@ -566,7 +566,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-3@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250528
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · 省赛
  比赛场次预约时间
@@ -575,7 +575,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-4@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250607
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · 省赛
  时间
@@ -584,7 +584,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-5@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250613
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · 全国
  决赛入围名单公布时间
@@ -593,7 +593,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-6@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250623
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · 全国
  决赛评审时间
@@ -602,7 +602,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-7@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251114
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · （一
  ）写作专项赛作品提交
@@ -611,7 +611,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-8@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251121
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · （二
  ）规范字专项赛作品提交
@@ -620,7 +620,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-9@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251121
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · （三
  ）诵读专项赛作品提交
@@ -629,7 +629,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22027-10@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251128
 SUMMARY:2025年第七届全国大学生语言文字能力大赛 · （四
  ）青年教师语言文字教学专项赛提交
@@ -638,7 +638,7 @@ URL:https://www.52jingsai.com/article-22027-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22116-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250531
 SUMMARY:2025年全国大学生电子设计竞赛 · 报名截止
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-22116-1.html
@@ -646,7 +646,7 @@ URL:https://www.52jingsai.com/article-22116-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22181-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250715
 SUMMARY:第七届中华经典诵写讲大赛 · “诵读中国”经典诵
  读大赛初赛提交截止时间
@@ -656,7 +656,7 @@ URL:https://www.52jingsai.com/article-22181-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22181-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250531
 SUMMARY:第七届中华经典诵写讲大赛 · “诗教中国”诗词讲
  解大赛初赛提交截止时间
@@ -666,7 +666,7 @@ URL:https://www.52jingsai.com/article-22181-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22181-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250531
 SUMMARY:第七届中华经典诵写讲大赛 · “笔墨中国”汉字书
  写大赛初赛提交截止时间
@@ -676,7 +676,7 @@ URL:https://www.52jingsai.com/article-22181-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22181-3@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250531
 SUMMARY:第七届中华经典诵写讲大赛 · “印记中国”师生篆
  刻大赛初赛提交截止时间
@@ -686,7 +686,7 @@ URL:https://www.52jingsai.com/article-22181-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:21998-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250612
 SUMMARY:第17届全国大学生广告艺术大赛 · 征集截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-21998-1.html
@@ -694,7 +694,7 @@ URL:https://www.52jingsai.com/article-21998-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22072-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250615
 SUMMARY:第二十届全国大学生智能汽车竞赛 · 报名截止时间
 DESCRIPTION:中国自动化学会\n来源: https://www.52jingsai.com/articl
@@ -703,7 +703,7 @@ URL:https://www.52jingsai.com/article-22072-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22006-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250620
 SUMMARY:2025第13届未来设计师大赛·全国高校数字艺术设计
  大赛 · 报名截止时间
@@ -714,7 +714,7 @@ URL:https://www.52jingsai.com/article-22006-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22229-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250630
 SUMMARY:2025第18届全国三维数字化创新设计大赛 · 初赛报名
  截止时间
@@ -725,7 +725,7 @@ URL:https://www.52jingsai.com/article-22229-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22367-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250630
 SUMMARY:挑战杯最新通知丨2025年第十九届“挑战杯”全国大
  学生课外学术科技作品竞赛来啦 · 初赛
@@ -734,7 +734,7 @@ URL:https://www.52jingsai.com/article-22367-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22394-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250715
 SUMMARY:2025中国高校计算机大赛——大数据挑战赛 · 报名
  截止
@@ -744,7 +744,7 @@ URL:https://www.52jingsai.com/article-22394-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22285-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250715
 SUMMARY:2025年第七届全国高校计算机能力挑战赛人工智能赛
  暨腾讯开悟人工智能全球公开赛正式启动 · 报名时间
@@ -754,7 +754,7 @@ URL:https://www.52jingsai.com/article-22285-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22186-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250715
 SUMMARY:第十九届“挑战杯”全国大学生课外学术科技作品
  竞赛“人工智能+”专项赛 · 省赛
@@ -763,7 +763,7 @@ URL:https://www.52jingsai.com/article-22186-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22257-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250814
 SUMMARY:2025年全国数字建筑创新应用大赛 · 大赛报名截止
  时间
@@ -773,7 +773,7 @@ URL:https://www.52jingsai.com/article-22257-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22196-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250819
 SUMMARY:2025年第十三届全国大学生光电设计竞赛 · 举行时
  间
@@ -783,7 +783,7 @@ URL:https://www.52jingsai.com/article-22196-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23166-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250901
 SUMMARY:2025年iCAN大学生创新创业大赛未来机器人创业挑战
  赛 · 报名时间
@@ -793,7 +793,7 @@ URL:https://www.52jingsai.com/article-23166-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23139-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250910
 SUMMARY:第十届华为ICT大赛中国赛 · 报名时间
 DESCRIPTION:华为技术有限公司\n来源: https://www.52jingsai.com/art
@@ -802,7 +802,7 @@ URL:https://www.52jingsai.com/article-23139-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22981-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250921
 SUMMARY:2025年全国大学生数字媒体科技作品及创意竞赛 · 
  报名截止时间
@@ -812,7 +812,7 @@ URL:https://www.52jingsai.com/article-22981-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22529-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20250930
 SUMMARY:第十届两岸新锐设计竞赛·华灿奖 · 创意赛道作品
  征集截止时间
@@ -821,7 +821,7 @@ URL:https://www.52jingsai.com/article-22529-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22529-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251020
 SUMMARY:第十届两岸新锐设计竞赛·华灿奖 · 校赛截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-22529-1.html
@@ -829,7 +829,7 @@ URL:https://www.52jingsai.com/article-22529-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22529-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251110
 SUMMARY:第十届两岸新锐设计竞赛·华灿奖 · 赛区赛截止时
  间
@@ -838,7 +838,7 @@ URL:https://www.52jingsai.com/article-22529-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22529-3@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251110
 SUMMARY:第十届两岸新锐设计竞赛·华灿奖 · 定向主题作品
  征集截止时间
@@ -847,7 +847,7 @@ URL:https://www.52jingsai.com/article-22529-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22381-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251013
 SUMMARY:2025年全国本科院校税收风险管控案例大赛 · 分区
  赛
@@ -856,7 +856,7 @@ URL:https://www.52jingsai.com/article-22381-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22381-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251206
 SUMMARY:2025年全国本科院校税收风险管控案例大赛 · 总决
  赛
@@ -865,7 +865,7 @@ URL:https://www.52jingsai.com/article-22381-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23170-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251031
 SUMMARY:“正大杯”第十六届全国大学生市场调查与分析大
  赛 · 参赛报名截止时间
@@ -875,7 +875,7 @@ URL:https://www.52jingsai.com/article-23170-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23179-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251107
 SUMMARY:第六届全国智慧城市与智能建造大学生创新创业竞
  赛（企业专题竞赛） · 报名截止日期
@@ -884,7 +884,7 @@ URL:https://www.52jingsai.com/article-23179-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22426-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251114
 SUMMARY:2025年度第九届跨境电商专业能力大赛 · 报名时间
 DESCRIPTION:中国对外贸易经济合作企业协会\n来源: https://www
@@ -893,7 +893,7 @@ URL:https://www.52jingsai.com/article-22426-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22478-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251114
 SUMMARY:2025年第七届全国大学生语言文字能力大赛写作专项
  赛 · 报名截止时间
@@ -903,7 +903,7 @@ URL:https://www.52jingsai.com/article-22478-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23178-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251115
 SUMMARY:2025年第20届中国好创意廉洁文化创意专项赛 · 报名
  截止时间
@@ -912,7 +912,7 @@ URL:https://www.52jingsai.com/article-23178-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23059-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251115
 SUMMARY:2025年第七届全国高校计算机能力挑战赛大数据挑战
  赛 · 报名时间
@@ -922,7 +922,7 @@ URL:https://www.52jingsai.com/article-23059-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23204-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251116
 SUMMARY:2026年第十二届全国大学生能源经济学术创意大赛 ·
   活动报名截止时间
@@ -932,7 +932,7 @@ URL:https://www.52jingsai.com/article-23204-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22452-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251119
 SUMMARY:2025年第七届全国高校计算机能力挑战赛 · 报名时
  间
@@ -941,18 +941,8 @@ DESCRIPTION:全国高等学校计算机教育研究会\n来源: https://www
 URL:https://www.52jingsai.com/article-22452-1.html
 END:VEVENT
 BEGIN:VEVENT
-UID:22454-0@competition-timeline
-DTSTAMP:20261023T050935Z
-DTSTART;VALUE=DATE:20251119
-SUMMARY:2025年第七届全国高校计算机能力挑战赛 · 报名时
- 间
-DESCRIPTION:全国高等学校计算机教育研究会\n来源: https://www
- .52jingsai.com/article-22454-1.html
-URL:https://www.52jingsai.com/article-22454-1.html
-END:VEVENT
-BEGIN:VEVENT
 UID:22480-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251121
 SUMMARY:2025年第七届全国大学生语言文字能力大赛规范字专
  项赛 · 报名截止时间
@@ -962,7 +952,7 @@ URL:https://www.52jingsai.com/article-22480-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22484-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251121
 SUMMARY:2025年第七届全国大学生语言文字能力大赛诵读专项
  赛 · 报名截止时间
@@ -972,7 +962,7 @@ URL:https://www.52jingsai.com/article-22484-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22485-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251128
 SUMMARY:2025年第七届全国大学生语言文字能力大赛青年教师
  语言文字教学专项赛 · 报名截止时间
@@ -982,7 +972,7 @@ URL:https://www.52jingsai.com/article-22485-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23160-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251128
 SUMMARY:第十二届国际高校BIM毕业设计创新大赛 · 常规赛道
  报名截止时间
@@ -993,7 +983,7 @@ URL:https://www.52jingsai.com/article-23160-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23160-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260130
 SUMMARY:第十二届国际高校BIM毕业设计创新大赛 · 创新赛道
  报名截止时间
@@ -1004,7 +994,7 @@ URL:https://www.52jingsai.com/article-23160-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23176-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251201
 SUMMARY:全国大学生结构设计信息技术大赛 · 报名截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-23176-1.html
@@ -1012,7 +1002,7 @@ URL:https://www.52jingsai.com/article-23176-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23303-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20260203
 SUMMARY:第十九届全国大学生软件创新大赛（软件设计创新
@@ -1023,7 +1013,7 @@ URL:https://www.52jingsai.com/article-23303-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22464-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251212
 SUMMARY:第三届全国大学生教育教学能力大赛 · 报名截止时
  间
@@ -1032,7 +1022,7 @@ URL:https://www.52jingsai.com/article-22464-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22424-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251219
 SUMMARY:2025年全国大学生汉语大赛 · 报名截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-22424-1.html
@@ -1040,7 +1030,7 @@ URL:https://www.52jingsai.com/article-22424-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:22445-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20251230
 SUMMARY:2025年第四届全国大学生普通话大赛 · 报名及初赛
  时间
@@ -1049,7 +1039,7 @@ URL:https://www.52jingsai.com/article-22445-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-公共管理案例大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260314
 SUMMARY:中国研究生公共管理案例大赛 · 报名
@@ -1060,7 +1050,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-公共管理案例大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260401
 SUMMARY:中国研究生公共管理案例大赛 · 作品提交
@@ -1071,7 +1061,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-公共管理案例大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260615
 SUMMARY:中国研究生公共管理案例大赛 · 决赛
@@ -1082,7 +1072,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:22594-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260115
 SUMMARY:第十一届全国大学生生命科学竞赛（科学探究类） 
  · 报名截止时间
@@ -1091,7 +1081,7 @@ URL:https://www.52jingsai.com/article-22594-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23208-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260120
 SUMMARY:第十六届全国大学生电子商务“创新、创意及创业
  ”挑战赛 · 报名截止时间
@@ -1101,7 +1091,7 @@ URL:https://www.52jingsai.com/article-23208-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23227-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260131
 SUMMARY:美国大学生数学建模竞赛，参赛规则有更新 · 注册
@@ -1111,7 +1101,7 @@ URL:https://www.52jingsai.com/article-23227-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23497-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260401
 SUMMARY:关于举办“第十七届中国大学生服务外包创新创业
@@ -1121,7 +1111,7 @@ URL:https://www.52jingsai.com/article-23497-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23346-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260216
 SUMMARY:2026年码蹄杯大赛正式 · 截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-23346-1.html
@@ -1129,7 +1119,7 @@ URL:https://www.52jingsai.com/article-23346-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23492-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260301
 SUMMARY:关于开展2026年第二十届CIMC“西门子杯”中国智能
  制造挑战赛的 · 报名时间
@@ -1138,7 +1128,7 @@ URL:https://www.52jingsai.com/article-23492-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23485-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260510
 SUMMARY:2026年第18届全国大学生广告艺术大赛参赛指南 · 线
  上提交
@@ -1147,7 +1137,7 @@ URL:https://www.52jingsai.com/article-23485-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23485-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260310
 SUMMARY:2026年第18届全国大学生广告艺术大赛参赛指南 · 营
  销创客单元海选提交时间
@@ -1156,7 +1146,7 @@ URL:https://www.52jingsai.com/article-23485-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23552-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260315
 SUMMARY:第35届金犊奖国际竞赛 · 作品征集
 DESCRIPTION:旺旺集团、时报集团\n来源: https://www.52jingsai.com/
@@ -1165,7 +1155,7 @@ URL:https://www.52jingsai.com/article-23552-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-创芯大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260701
 SUMMARY:中国研究生创“芯”大赛 · 报名
@@ -1176,7 +1166,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-创芯大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260708
 SUMMARY:中国研究生创“芯”大赛 · 作品提交
@@ -1187,7 +1177,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-创芯大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260818
 SUMMARY:中国研究生创“芯”大赛 · 决赛
@@ -1198,7 +1188,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:23479-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260322
 SUMMARY:2026年全国企业竞争模拟大赛 · 校内初赛报名与选
  拔截止日期
@@ -1209,7 +1199,7 @@ URL:https://www.52jingsai.com/article-23479-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23416-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260331
 SUMMARY:2026年第十五届全国大学生金相技能大赛 · 报名截
  止时间
@@ -1218,7 +1208,7 @@ URL:https://www.52jingsai.com/article-23416-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23617-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260401
 SUMMARY:2026年第二十届iCAN大学生创新创业大赛 · 报名时间
 DESCRIPTION:中国创造学会\n来源: https://www.52jingsai.com/article-2
@@ -1227,7 +1217,7 @@ URL:https://www.52jingsai.com/article-23617-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-电子设计竞赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260621
 SUMMARY:中国研究生电子设计竞赛 · 报名
@@ -1238,7 +1228,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-电子设计竞赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260621
 SUMMARY:中国研究生电子设计竞赛 · 作品提交
@@ -1249,7 +1239,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-电子设计竞赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260816
 SUMMARY:中国研究生电子设计竞赛 · 决赛
@@ -1260,7 +1250,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:23538-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260412
 SUMMARY:2026年“大工能动杯”第十九届全国大学生节能减排
  社会实践与科技竞赛第一轮 · 报名截止时间
@@ -1270,7 +1260,7 @@ URL:https://www.52jingsai.com/article-23538-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23484-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260420
 SUMMARY:第十一届全国大学生生命科学竞赛（创新创业类） 
  · 网上申报截止时间
@@ -1279,7 +1269,7 @@ URL:https://www.52jingsai.com/article-23484-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260424
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · 报名
@@ -1289,7 +1279,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260528
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · （四）省赛比赛场次预约时间
@@ -1299,7 +1289,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260606
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · （五）省赛时间
@@ -1309,7 +1299,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-3@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260616
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · （六）决赛入围名单公布时间
@@ -1319,7 +1309,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-4@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · （一）诵读专项赛作品提交
@@ -1329,7 +1319,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-5@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · （二）规范字专项赛作品提交
@@ -1339,7 +1329,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-6@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · （三）写作专项赛作品提交
@@ -1349,7 +1339,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23434-7@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:2026年第八届大学生语言文字能力大赛报名通知，专
  业不限 · （四）青年教师语言文字教学专项赛提交
@@ -1359,7 +1349,7 @@ URL:https://www.52jingsai.com/article-23434-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23345-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260508
 SUMMARY:2026年第九届中国高校智能机器人创意大赛（1号通
  知） · 报名截止
@@ -1367,41 +1357,8 @@ DESCRIPTION:\n来源: https://www.52jingsai.com/article-23345-1.html
 URL:https://www.52jingsai.com/article-23345-1.html
 END:VEVENT
 BEGIN:VEVENT
-UID:22368-0@competition-timeline
-DTSTAMP:20261023T050935Z
-DTSTART;VALUE=DATE:20260509
-SUMMARY:2025年第十七届全国大学生数学竞赛 · 报名截止时
- 间
-DESCRIPTION:\n来源: https://www.52jingsai.com/article-22368-1.html
-URL:https://www.52jingsai.com/article-22368-1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:22368-1@competition-timeline
-DTSTAMP:20261023T050935Z
-DTSTART;VALUE=DATE:20260510
-SUMMARY:2025年第十七届全国大学生数学竞赛 · 考试时间
-DESCRIPTION:\n来源: https://www.52jingsai.com/article-22368-1.html
-URL:https://www.52jingsai.com/article-22368-1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:22368-2@competition-timeline
-DTSTAMP:20261023T050935Z
-DTSTART;VALUE=DATE:20260510
-SUMMARY:2025年第十七届全国大学生数学竞赛 · 第一场
-DESCRIPTION:\n来源: https://www.52jingsai.com/article-22368-1.html
-URL:https://www.52jingsai.com/article-22368-1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:22368-3@competition-timeline
-DTSTAMP:20261023T050935Z
-DTSTART;VALUE=DATE:20260627
-SUMMARY:2025年第十七届全国大学生数学竞赛 · 第二场
-DESCRIPTION:\n来源: https://www.52jingsai.com/article-22368-1.html
-URL:https://www.52jingsai.com/article-22368-1.html
-END:VEVENT
-BEGIN:VEVENT
 UID:cpipc-2026-操作系统开源创新大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260729
 SUMMARY:中国研究生操作系统开源创新大赛 · 报名
@@ -1412,7 +1369,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-操作系统开源创新大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260731
 SUMMARY:中国研究生操作系统开源创新大赛 · 作品提交
@@ -1423,7 +1380,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-操作系统开源创新大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 SUMMARY:中国研究生操作系统开源创新大赛 · 决赛
@@ -1434,7 +1391,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-智能建造创新大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260821
 SUMMARY:中国研究生智能建造创新大赛 · 报名
@@ -1445,7 +1402,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-智能建造创新大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国研究生智能建造创新大赛 · 作品提交
@@ -1456,7 +1413,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-智能建造创新大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261129
 SUMMARY:中国研究生智能建造创新大赛 · 决赛
@@ -1467,7 +1424,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-科技作品竞赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260906
 SUMMARY:中国研究生科技作品竞赛 · 报名
@@ -1478,7 +1435,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-科技作品竞赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260906
 SUMMARY:中国研究生科技作品竞赛 · 作品提交
@@ -1489,7 +1446,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-科技作品竞赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261018
 SUMMARY:中国研究生科技作品竞赛 · 决赛
@@ -1500,7 +1457,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-文化中国两创大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260914
 SUMMARY:中国研究生“文化中国”两创大赛 · 报名
@@ -1511,7 +1468,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-文化中国两创大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260914
 SUMMARY:中国研究生“文化中国”两创大赛 · 作品提交
@@ -1522,7 +1479,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-文化中国两创大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:中国研究生“文化中国”两创大赛 · 决赛
@@ -1533,7 +1490,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-人工智能创新大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260826
 SUMMARY:中国研究生人工智能创新大赛 · 报名
@@ -1544,7 +1501,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-人工智能创新大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260902
 SUMMARY:中国研究生人工智能创新大赛 · 作品提交
@@ -1555,7 +1512,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-人工智能创新大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 SUMMARY:中国研究生人工智能创新大赛 · 决赛
@@ -1566,7 +1523,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-金融科技创新大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260818
 SUMMARY:中国研究生金融科技创新大赛 · 报名
@@ -1577,7 +1534,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-金融科技创新大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国研究生金融科技创新大赛 · 作品提交
@@ -1588,7 +1545,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-金融科技创新大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:中国研究生金融科技创新大赛 · 决赛
@@ -1599,7 +1556,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-国际中文教育案例大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
 SUMMARY:中国研究生国际中文教育案例大赛 · 报名
@@ -1610,7 +1567,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-国际中文教育案例大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260714
 SUMMARY:中国研究生国际中文教育案例大赛 · 作品提交
@@ -1621,7 +1578,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-数学建模竞赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260920
 SUMMARY:中国研究生数学建模竞赛 · 报名
@@ -1632,7 +1589,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-数学建模竞赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260929
 SUMMARY:中国研究生数学建模竞赛 · 作品提交
@@ -1643,7 +1600,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-数学建模竞赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
 SUMMARY:中国研究生数学建模竞赛 · 决赛
@@ -1654,7 +1611,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:23519-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260605
 SUMMARY:十四届全国大学生光电设计竞赛 · 国赛推荐截止日
  期
@@ -1663,7 +1620,7 @@ URL:https://www.52jingsai.com/article-23519-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-卓越兽医挑战赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260901
 SUMMARY:中国研究生卓越兽医挑战赛 · 报名
@@ -1674,7 +1631,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-卓越兽医挑战赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260906
 SUMMARY:中国研究生卓越兽医挑战赛 · 作品提交
@@ -1685,7 +1642,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-未来飞行器创新大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260831
 SUMMARY:中国研究生未来飞行器创新大赛 · 报名
@@ -1696,7 +1653,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-未来飞行器创新大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260902
 SUMMARY:中国研究生未来飞行器创新大赛 · 作品提交
@@ -1707,7 +1664,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-未来飞行器创新大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:中国研究生未来飞行器创新大赛 · 决赛
@@ -1718,7 +1675,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-网络安全创新大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20261019
 SUMMARY:中国研究生网络安全创新大赛 · 报名
@@ -1729,7 +1686,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-网络安全创新大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20261023
 SUMMARY:中国研究生网络安全创新大赛 · 作品提交
@@ -1740,7 +1697,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-网络安全创新大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261228
 SUMMARY:中国研究生网络安全创新大赛 · 决赛
@@ -1751,7 +1708,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-美丽中国创新设计大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260821
 SUMMARY:中国研究生“美丽中国”创新设计大赛 · 报名
@@ -1762,7 +1719,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-美丽中国创新设计大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260821
 SUMMARY:中国研究生“美丽中国”创新设计大赛 · 作品提交
@@ -1773,7 +1730,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-美丽中国创新设计大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:中国研究生“美丽中国”创新设计大赛 · 决赛
@@ -1784,7 +1741,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-双碳创新与创意大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260912
 SUMMARY:中国研究生“双碳”创新与创意大赛 · 报名
@@ -1795,7 +1752,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-双碳创新与创意大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260914
 SUMMARY:中国研究生“双碳”创新与创意大赛 · 作品提交
@@ -1806,7 +1763,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-双碳创新与创意大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
 SUMMARY:中国研究生“双碳”创新与创意大赛 · 决赛
@@ -1817,7 +1774,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-机器人创新设计大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260825
 SUMMARY:中国研究生机器人创新设计大赛 · 报名
@@ -1828,7 +1785,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-机器人创新设计大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260826
 SUMMARY:中国研究生机器人创新设计大赛 · 作品提交
@@ -1839,7 +1796,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-机器人创新设计大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:中国研究生机器人创新设计大赛 · 决赛
@@ -1850,7 +1807,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-能源装备创新设计大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260816
 SUMMARY:中国研究生能源装备创新设计大赛 · 报名
@@ -1861,7 +1818,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-能源装备创新设计大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260826
 SUMMARY:中国研究生能源装备创新设计大赛 · 作品提交
@@ -1872,7 +1829,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-能源装备创新设计大赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:中国研究生能源装备创新设计大赛 · 决赛
@@ -1884,7 +1841,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-智慧城市技术与创意设计大赛-0@competition-timeli
  ne
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20261024
 SUMMARY:中国研究生智慧城市技术与创意设计大赛 · 报名
@@ -1896,7 +1853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-智慧城市技术与创意设计大赛-1@competition-timeli
  ne
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20261026
 SUMMARY:中国研究生智慧城市技术与创意设计大赛 · 作品提
@@ -1909,7 +1866,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-智慧城市技术与创意设计大赛-2@competition-timeli
  ne
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261228
 SUMMARY:中国研究生智慧城市技术与创意设计大赛 · 决赛
@@ -1920,7 +1877,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:23758-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:2026年第八届全国大学生工业设计大赛 · 报名截止
  时间
@@ -1931,7 +1888,7 @@ URL:https://www.52jingsai.com/article-23758-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23618-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:2026年（第二十届）全国大学生文化旅游与会展竞赛
   · 报名截止时间
@@ -1942,7 +1899,7 @@ URL:https://www.52jingsai.com/article-23618-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23555-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:2026第七届东方创意之星创新设计大赛高教赛道作品
  征集 · 作品征集截稿日期
@@ -1951,7 +1908,7 @@ URL:https://www.52jingsai.com/article-23555-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23535-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:第十一届中国大学生人力资源创新实践大赛（HRU）
  开启预报名 · 报名截止时间
@@ -1960,7 +1917,7 @@ URL:https://www.52jingsai.com/article-23535-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23583-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:第十五届“中国软件杯”大学生软件设计大赛 · 报
  名截止时间
@@ -1969,7 +1926,7 @@ URL:https://www.52jingsai.com/article-23583-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-创芯大赛EDA精英挑战赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20261017
 SUMMARY:中国研究生创“芯”大赛 --EDA精英挑战赛 · 报名
@@ -1980,7 +1937,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-创芯大赛EDA精英挑战赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:中国研究生创“芯”大赛 --EDA精英挑战赛 · 作品提
  交
@@ -1991,7 +1948,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-创芯大赛EDA精英挑战赛-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
 SUMMARY:中国研究生创“芯”大赛 --EDA精英挑战赛 · 决赛
@@ -2002,7 +1959,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-企业管理创新大赛-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260923
 SUMMARY:中国研究生企业管理创新大赛 · 报名
@@ -2013,7 +1970,7 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
 END:VEVENT
 BEGIN:VEVENT
 UID:cpipc-2026-企业管理创新大赛-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:中国研究生企业管理创新大赛 · 决赛
@@ -2023,8 +1980,35 @@ URL:https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf502
  10a6
 END:VEVENT
 BEGIN:VEVENT
+UID:baidustar-2026-2026-0@competition-timeline
+DTSTAMP:20261023T055309Z
+DTSTART;VALUE=DATE:20260823
+SUMMARY:百度之星程序设计大赛 · 初赛（线上）
+DESCRIPTION:百度公司\n来源: https://star.baidu.com/program-design-mat
+ ch2026
+URL:https://star.baidu.com/program-design-match2026
+END:VEVENT
+BEGIN:VEVENT
+UID:baidustar-2026-2026-1@competition-timeline
+DTSTAMP:20261023T055309Z
+DTSTART;VALUE=DATE:20260919
+SUMMARY:百度之星程序设计大赛 · 初赛（线上）
+DESCRIPTION:百度公司\n来源: https://star.baidu.com/program-design-mat
+ ch2026
+URL:https://star.baidu.com/program-design-match2026
+END:VEVENT
+BEGIN:VEVENT
+UID:baidustar-2026-2026-2@competition-timeline
+DTSTAMP:20261023T055309Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:百度之星程序设计大赛 · 决赛
+DESCRIPTION:百度公司\n来源: https://star.baidu.com/program-design-mat
+ ch2026
+URL:https://star.baidu.com/program-design-match2026
+END:VEVENT
+BEGIN:VEVENT
 UID:23998-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:2026第十二届全国大学生物理实验竞赛（创新） · 
  正式报名
@@ -2035,7 +2019,7 @@ URL:https://www.52jingsai.com/article-23998-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23927-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20260925
 SUMMARY:2026年中国国际大学生创新大赛 · 报名截至时间
 DESCRIPTION:教育部、中央统战部、中央网信办、国家发展改
@@ -2045,7 +2029,7 @@ URL:https://www.52jingsai.com/article-23927-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23418-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261014
 SUMMARY:第十九届全国大学生结构设计竞赛 · 总决赛时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-23418-1.html
@@ -2053,7 +2037,7 @@ URL:https://www.52jingsai.com/article-23418-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24109-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261023
 SUMMARY:2026年第十四届全国大学生数字媒体科技作品及创意
  竞赛 · 报名及作品提交截止时间
@@ -2063,7 +2047,7 @@ URL:https://www.52jingsai.com/article-24109-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24115-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261031
 SUMMARY:第十一届华为ICT大赛中国赛 · 实践赛报名截止
 DESCRIPTION:华为技术有限公司\n来源: https://www.52jingsai.com/art
@@ -2072,7 +2056,7 @@ URL:https://www.52jingsai.com/article-24115-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24115-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:第十一届华为ICT大赛中国赛 · 创新赛报名截止
 DESCRIPTION:华为技术有限公司\n来源: https://www.52jingsai.com/art
@@ -2081,7 +2065,7 @@ URL:https://www.52jingsai.com/article-24115-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24110-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261031
 SUMMARY:第十七届全国大学生市场调查与分析大赛 · 参赛报
  名
@@ -2091,7 +2075,7 @@ URL:https://www.52jingsai.com/article-24110-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24014-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:2026年第八届全国高校计算机能力挑战赛 · 大数据
  挑战赛报名时间
@@ -2101,7 +2085,7 @@ URL:https://www.52jingsai.com/article-24014-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24017-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:2026年第八届全国高校计算机能力挑战赛人工智能挑
  战赛 · 报名时间
@@ -2111,7 +2095,7 @@ URL:https://www.52jingsai.com/article-24017-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23941-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:2026年第八届大学生语言文字能力大赛诵读专项赛 ·
   报名截止时间
@@ -2120,7 +2104,7 @@ URL:https://www.52jingsai.com/article-23941-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24024-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:2026年第十届跨境电商专业能力大赛 · 报名时间
 DESCRIPTION:中国对外贸易经济合作企业协会\n来源: https://www
@@ -2129,7 +2113,7 @@ URL:https://www.52jingsai.com/article-24024-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23944-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:2026年第八届大学生语言文字能力大赛规范字专项赛
   · 报名截止时间
@@ -2138,7 +2122,7 @@ URL:https://www.52jingsai.com/article-23944-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23885-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:2026年第八届全国高校计算机能力挑战赛Office高级应
  用赛 · Office高级应用赛报名时间
@@ -2148,7 +2132,7 @@ URL:https://www.52jingsai.com/article-23885-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23882-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:2026年第八届全国高校计算机能力挑战赛程序设计挑
  战赛 · 程序设计挑战赛报名时间
@@ -2158,7 +2142,7 @@ URL:https://www.52jingsai.com/article-23882-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23886-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:2026年第八届全国高校计算机能力挑战赛，多赛项 ·
   报名时间
@@ -2168,7 +2152,7 @@ URL:https://www.52jingsai.com/article-23886-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23940-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:2026年第八届大学生语言文字能力大赛写作专项赛 ·
   报名截止时间
@@ -2177,7 +2161,7 @@ URL:https://www.52jingsai.com/article-23940-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24044-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:2026新锐设计竞赛·华灿奖 · 创意赛道作品征集截止
  时间
@@ -2186,7 +2170,7 @@ URL:https://www.52jingsai.com/article-24044-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24044-1@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261229
 SUMMARY:2026新锐设计竞赛·华灿奖 · 校赛截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-24044-1.html
@@ -2194,7 +2178,7 @@ URL:https://www.52jingsai.com/article-24044-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24044-2@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20270129
 SUMMARY:2026新锐设计竞赛·华灿奖 · 赛区赛截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-24044-1.html
@@ -2202,7 +2186,7 @@ URL:https://www.52jingsai.com/article-24044-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24044-3@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20270305
 SUMMARY:2026新锐设计竞赛·华灿奖 · 定向主题作品征集截止
  时间
@@ -2211,7 +2195,7 @@ URL:https://www.52jingsai.com/article-24044-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24030-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261219
 SUMMARY:2026年第四届大学生汉语大赛 · 报名时间
 DESCRIPTION:华夏文化促进会文化产业工作委员会、大学生汉
@@ -2220,7 +2204,7 @@ URL:https://www.52jingsai.com/article-24030-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:23889-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20261225
 SUMMARY:2026年第五届大学生普通话大赛 · 报名
 DESCRIPTION:中国语文报刊协会读写教学分会\n来源: https://www
@@ -2229,7 +2213,7 @@ URL:https://www.52jingsai.com/article-23889-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24002-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:第十二届全国大学生生命科学竞赛（科学探究类） 
  · 报名截止时间
@@ -2238,7 +2222,7 @@ URL:https://www.52jingsai.com/article-24002-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24107-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20270326
 SUMMARY:第十六届全国大学生金相技能大赛 · 报名截止时间
 DESCRIPTION:\n来源: https://www.52jingsai.com/article-24107-1.html
@@ -2246,7 +2230,7 @@ URL:https://www.52jingsai.com/article-24107-1.html
 END:VEVENT
 BEGIN:VEVENT
 UID:24009-0@competition-timeline
-DTSTAMP:20261023T050935Z
+DTSTAMP:20261023T055309Z
 DTSTART;VALUE=DATE:20270510
 SUMMARY:关于举办2027年第十届中国大学生工程实践与创新能
  力大赛 · 复赛

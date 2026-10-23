@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = ROOT / "data" / "candidates.json"
-EXTRA = [ROOT / "data" / "cpipc.json"]
+EXTRA = [ROOT / "data" / "cpipc.json", ROOT / "data" / "candidates_baidustar.json"]
 
 
 def norm_title(t):
@@ -52,9 +52,12 @@ def main():
                 old = records[hit]
                 old["phases"] = rec["phases"]
                 old["confidence"] = "confirmed"
-                old["official_url"] = rec["official_url"]
+                if rec.get("official_url"):
+                    old["official_url"] = rec["official_url"]
                 old.setdefault("tags", []).append("官方赛程表")
                 merged += 1
+            elif any(r["id"] == rec["id"] for r in records):
+                continue  # 幂等：重复跑 merge 不再追加
             else:
                 records.append(rec)
                 if nt:

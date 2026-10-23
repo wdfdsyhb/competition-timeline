@@ -4,13 +4,11 @@
  "counts": {
   "total": 194,
   "competition": 172,
-  "with_phases": 155,
+  "with_phases": 154,
   "with_dates": 118,
   "phases_after_enrich": 133,
-  "phases_after_official": 134,
-  "corporate_merged": 21,
-  "corporate_added": 0,
-  "corporate_renamed": 21
+  "corporate_merged": 22,
+  "corporate_added": 0
  },
  "records": [
   {
@@ -571,10 +569,6 @@
    "official_url": "https://www.bricsacademy.org.cn/signup/index",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -754,10 +748,6 @@
    "official_url": "https://www.raicom.com.cn/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -1105,10 +1095,6 @@
    "official_url": "http://iche.zju.edu.cn/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 2027
    }
   },
   {
@@ -1319,10 +1305,6 @@
    "official_url": "https://www.robomaster.com/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -1422,10 +1404,6 @@
    "official_url": "http://www.xcbds.com/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -1447,9 +1425,6 @@
    "official_url": "http://nuedc.xjtu.edu.cn/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "error": "fetch-fail: <urlopen error timed out>"
    }
   },
   {
@@ -1576,10 +1551,6 @@
    "official_url": "https://www.robocon.org.cn/sys-nd/63.html",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -2192,59 +2163,11 @@
    "official_url": null
   },
   {
-   "id": "22454",
-   "title_raw": "【榜单竞赛，Office高级应用赛】2025年第七届全国高校计算机能力挑战赛",
-   "title": "2025年第七届全国高校计算机能力挑战赛",
-   "tags": [
-    "榜单竞赛",
-    "Office高级应用赛"
-   ],
-   "phases": [
-    {
-     "name": "报名时间",
-     "raw": "即日起-2025年11月19日",
-     "start": "2025-11-19",
-     "end": "2025-11-19",
-     "precision": "day"
-    }
-   ],
-   "organizer": "全国高等学校计算机教育研究会",
-   "published": null,
-   "source": {
-    "type": "aggregator",
-    "name": "我爱竞赛网",
-    "url": "https://www.52jingsai.com/article-22454-1.html"
-   },
-   "confidence": "tentative",
-   "official_url": null
-  },
-  {
    "id": "22368",
    "title_raw": "2025年第十七届全国大学生数学竞赛",
    "title": "2025年第十七届全国大学生数学竞赛",
    "tags": [],
-   "phases": [
-    {
-     "name": "报名截止时间",
-     "start": null,
-     "end": "2026-05-09"
-    },
-    {
-     "name": "考试时间",
-     "start": null,
-     "end": "2026-05-10"
-    },
-    {
-     "name": "第一场",
-     "start": null,
-     "end": "2026-05-10"
-    },
-    {
-     "name": "第二场",
-     "start": null,
-     "end": "2026-06-27"
-    }
-   ],
+   "phases": [],
    "organizer": null,
    "published": null,
    "source": {
@@ -2252,12 +2175,11 @@
     "name": "我爱竞赛网",
     "url": "https://www.52jingsai.com/article-22368-1.html"
    },
-   "confidence": "estimated",
+   "confidence": "tentative",
    "official_url": "http://www.ncmac.cn/reg-364.html",
    "enrich": {
     "official_url_added": true
-   },
-   "official_checked_at": "2026-10-22"
+   }
   },
   {
    "id": "22394",
@@ -2538,10 +2460,6 @@
    "official_url": "https://cy.ncss.cn",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 2025
    }
   },
   {
@@ -2657,9 +2575,6 @@
    "official_url": "http://cmes-imic.org.cn/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "error": "fetch-fail: timed out"
    }
   },
   {
@@ -2828,10 +2743,6 @@
    "official_url": "http://www.xcbds.com/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -2853,10 +2764,6 @@
    "official_url": "https://www.caairobot.com/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -2878,10 +2785,6 @@
    "official_url": "http://www.ad-young.com/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 2025
    }
   },
   {
@@ -3027,10 +2930,6 @@
    "official_url": "http://jsjds.blcu.edu.cn/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 2026
    }
   },
   {
@@ -3184,10 +3083,6 @@
    "official_url": "https://www.bricsacademy.org.cn/signup/index",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -3209,10 +3104,6 @@
    "official_url": "https://www.cnrobocon.net/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -3385,10 +3276,6 @@
    "official_url": "https://www.bricsacademy.org.cn/signup/index",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -3636,10 +3523,6 @@
    "official_url": "http://www.xcbds.com/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -3659,10 +3542,6 @@
    "official_url": "https://jdsxj.eduyun.cn/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -3941,10 +3820,6 @@
    "official_url": "http://www.sun-ada.net/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 0
    }
   },
   {
@@ -4096,10 +3971,6 @@
    "official_url": "http://jsjds.blcu.edu.cn/",
    "enrich": {
     "official_url_added": true
-   },
-   "official_probe": {
-    "checked": "2026-10-22",
-    "year_seen": 2026
    }
   },
   {
@@ -4600,7 +4471,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4643,7 +4514,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4686,7 +4557,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4729,7 +4600,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4772,7 +4643,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4815,7 +4686,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4858,7 +4729,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4901,7 +4772,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4944,7 +4815,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -4987,7 +4858,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5030,7 +4901,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5066,7 +4937,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5109,7 +4980,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5152,7 +5023,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5195,7 +5066,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5238,7 +5109,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5274,7 +5145,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5317,7 +5188,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5360,7 +5231,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5396,7 +5267,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5439,7 +5310,7 @@
      "precision": "day"
     }
    ],
-   "published": "2026-10-23 13:05",
+   "published": "2026-10-23 13:08",
    "confidence": "confirmed",
    "tags": [
     "企业赛",
@@ -5452,8 +5323,62 @@
     "name": "中国研究生创新实践系列大赛管理平台",
     "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
    }
+  },
+  {
+   "id": "baidustar-2026-2026",
+   "title": "百度之星程序设计大赛",
+   "organizer": "百度公司",
+   "category": "计算机",
+   "tags": [
+    "算法",
+    "企业赛",
+    "官方赛程表"
+   ],
+   "confidence": "confirmed",
+   "phases": [
+    {
+     "name": "初赛（线上）",
+     "start": "2026-08-23",
+     "end": "2026-08-23",
+     "precision": "day",
+     "raw": "初赛（省赛） 常规晋级名额 第一场（线上）：2026年8月23日；第二场（线上）：2026年9月19日；每场初赛按照成绩排名，公布约400位晋级名额，两场初赛共晋级800名选手入围决赛",
+     "source": {
+      "type": "official",
+      "name": "百度之星官网",
+      "url": "https://star.baidu.com/program-design-match2026"
+     }
+    },
+    {
+     "name": "初赛（线上）",
+     "start": "2026-09-19",
+     "end": "2026-09-19",
+     "precision": "day",
+     "raw": "初赛（省赛） 常规晋级名额 第一场（线上）：2026年8月23日；第二场（线上）：2026年9月19日；每场初赛按照成绩排名，公布约400位晋级名额，两场初赛共晋级800名选手入围决赛",
+     "source": {
+      "type": "official",
+      "name": "百度之星官网",
+      "url": "https://star.baidu.com/program-design-match2026"
+     }
+    },
+    {
+     "name": "决赛",
+     "start": "2026-10-17",
+     "end": "2026-10-17",
+     "precision": "day",
+     "raw": "总决赛 本届百度之星程序设计大赛决赛时间为2026年10月17日14:00-19:00，比赛形式为线上比赛（免费）",
+     "source": {
+      "type": "official",
+      "name": "百度之星官网",
+      "url": "https://star.baidu.com/program-design-match2026"
+     }
+    }
+   ],
+   "source": {
+    "type": "official",
+    "name": "百度之星官网",
+    "url": "https://star.baidu.com/program-design-match2026"
+   }
   }
  ],
- "enriched_at": "2026-10-22 20:20:28",
- "official_enriched_at": "2026-10-22 20:49:10"
+ "enriched_at": "2026-10-22 20:20:28"
 }

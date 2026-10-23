@@ -98,9 +98,9 @@ def build_records(raw):
         out.append({
             "id": r["id"],
             "title": clean(r["title"]),
-            "raw_title": r["title_raw"],
-            "org": r["organizer"] or "",
-            "tags": r["tags"],
+            "raw_title": r.get("title_raw") or r["title"],
+            "org": r.get("organizer") or "",
+            "tags": r.get("tags") or [],
             "cat": categorize(r["title"]),
             "lead": lead.get("start") or lead.get("end"),
             "lead_end": lead.get("end"),
@@ -108,7 +108,7 @@ def build_records(raw):
             "phases": phases,
             "src": r["source"]["url"],
             "conf": r["confidence"],
-            "published": r["published"],
+            "published": r.get("published") or "",
         })
     out.sort(key=lambda x: (x["lead"] or "9999", x["title"]))
     return out

@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-10-23T00:00:00+08:00",
+  "source": {
+    "name": "star.baidu.com",
+    "method": "webpack-chunk-static"
+  },
+  "records": [
+    {
+      "id": "baidustar-2026-2026",
+      "title": "百度之星程序设计大赛",
+      "organizer": "百度公司",
+      "category": "计算机",
+      "tags": [
+        "算法",
+        "企业赛"
+      ],
+      "confidence": "confirmed",
+      "phases": [
+        {
+          "name": "初赛（线上）",
+          "start": "2026-08-23",
+          "end": "2026-08-23",
+          "precision": "day",
+          "raw": "初赛（省赛） 常规晋级名额 第一场（线上）：2026年8月23日；第二场（线上）：2026年9月19日；每场初赛按照成绩排名，公布约400位晋级名额，两场初赛共晋级800名选手入围决赛",
+          "source": {
+            "type": "official",
+            "name": "百度之星官网",
+            "url": "https://star.baidu.com/program-design-match2026"
+          }
+        },
+        {
+          "name": "初赛（线上）",
+          "start": "2026-09-19",
+          "end": "2026-09-19",
+          "precision": "day",
+          "raw": "初赛（省赛） 常规晋级名额 第一场（线上）：2026年8月23日；第二场（线上）：2026年9月19日；每场初赛按照成绩排名，公布约400位晋级名额，两场初赛共晋级800名选手入围决赛",
+          "source": {
+            "type": "official",
+            "name": "百度之星官网",
+            "url": "https://star.baidu.com/program-design-match2026"
+          }
+        },
+        {
+          "name": "决赛",
+          "start": "2026-10-17",
+          "end": "2026-10-17",
+          "precision": "day",
+          "raw": "总决赛 本届百度之星程序设计大赛决赛时间为2026年10月17日14:00-19:00，比赛形式为线上比赛（免费）",
+          "source": {
+            "type": "official",
+            "name": "百度之星官网",
+            "url": "https://star.baidu.com/program-design-match2026"
+          }
+        }
+      ],
+      "source": {
+        "type": "official",
+        "name": "百度之星官网",
+        "url": "https://star.baidu.com/program-design-match2026"
+      }
+    }
+  ]
+}
