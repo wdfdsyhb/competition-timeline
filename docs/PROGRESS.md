@@ -62,3 +62,40 @@
 1. 年度巡检：52jingsai 榜单每年 9 月重抓一次（新一届发布季）
 2. 人工核验通道：high-value 竞赛（数模/电赛/挑战杯/互联网+）单独维护 confirmed 档案
 3. 若要扩：优先「中国大学生在线」和「全国大学生创业服务网」而非 cahe/mcm
+
+
+## 企业赛专源扩张（2026-10-23）
+
+### 数据面
+| 阶段 | 站点条目 | 源记录 | VEVENT | 企业赛专源 |
+|---|---|---|---|---|
+| P1 完成 | 118 | 173 | 166 | — |
+| + cpipc | 153 | 195 | 226 | cpipc 21 |
+| + 百度之星 | 167 | 208 | 229 | +baidustar 1 |
+| + 华为软挑 | 153 | 195 | 228 | +codecraft 1 |
+| + 阿里天池 | **166** | **208** | **245** | +tianchi 13 |
+
+### 抓取套路沉淀（三种）
+1. **官方 JSON API**（天池）：`GET /v3/proxy/competition/api/race/page?visualTab={1|2}&pageNum={n}&isActive=1`
+   - `isActive` 必须传数字 `1`，传 `true` 报 `TST-SYS-ILL_ARGS`
+   - `visualTab` 必须数字（1=AI大模型赛，2=其它）
+   - `pages` 字段不可信（报 1 实际 2 页）→ 翻到空页为止
+   - 返回体自带 `signupStartTime/EndTime` + `raceStartTime/EndTime`，无需解析 HTML
+2. **webpack chunk 静态提取**（百度之星）：`_buildManifest.js` 里 css/js 各一张 id→hash 表，`find_chunk_hash` 必须取**最后一个**匹配
+3. **vite chunk 静态提取**（华为软挑）：主 bundle 挖 `VITE_APP_CompetitionId_2026`，路由 chunk 里 `mu=[{id,date}]`
+
+### 失败案例：腾讯开悟（aiarena.tencent.com）
+- 后端 Next.js SSR，`/api/v5/fe/AIArena/ListMatch|ListGame|ListCompetition` 等全部 **403**
+- `ListArticle` 可用（POST `{page:{current,size}, skipCheckLogin:true}`）但只有新闻（63 条，type 全 news/paper）
+- `/[lang]/match` 路由 chunk 用百分号编码拉取仍 404
+- 结论：拿不到结构化赛程，暂搁置
+
+### 修复
+- `build_ics` 兼容带时分秒的 ISO 日期（`2026-03-16T09:00:00`）：`start[:10]` 截断，否则软挑 4 阶段全被跳过
+- `merge_corporate.py`：id 幂等（重复跑不追加）+ `official_url` 改 `.get`（百度之星记录无此键）
+- `build_draft.py`：`title_raw/organizer/tags/published` 全改 `.get`，兼容专源记录缺键
+- 去重：`2025年第七届全国高校计算机能力挑战赛` 同质双条（22452/22454）删一条
+
+### 坑
+- `git commit --amend` 改写已推送提交 → push 被拒（non-fast-forward）→ 用 `git reset --hard origin/main` 回退后另起提交
+- 50jingsai 抓取中间文件 `_tmp_*` 一度被 commit 进仓库 → `git rm --cached` + `.gitignore` 补 `_tmp_*`
