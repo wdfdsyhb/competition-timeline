@@ -1,0 +1,880 @@
+{
+ "generated_at": "2026-10-23 13:08",
+ "source": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6",
+ "page_title": "2026年度中国研究生创新实践系列大赛各主题赛事赛程一览",
+ "year": 2026,
+ "counts": {
+  "total": 21,
+  "skipped": [
+   [
+    "乡村振兴科技强农+创新大赛",
+    "",
+    "",
+    ""
+   ]
+  ]
+ },
+ "records": [
+  {
+   "id": "cpipc-2026-智慧城市技术与创意设计大赛",
+   "title": "中国研究生智慧城市技术与创意设计大赛",
+   "title_raw": "智慧城市技术与创意设计大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月27日-10月23日",
+     "start": "2026-06-27",
+     "end": "2026-10-23",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月27日-10月25日",
+     "start": "2026-06-27",
+     "end": "2026-10-25",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "12月26日-27日",
+     "start": "2026-12-26",
+     "end": "2026-12-27",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-未来飞行器创新大赛",
+   "title": "中国研究生未来飞行器创新大赛",
+   "title_raw": "未来飞行器创新大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月10日-8月30日",
+     "start": "2026-06-10",
+     "end": "2026-08-30",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月10日-9月1日",
+     "start": "2026-06-10",
+     "end": "2026-09-01",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "10月30日-11月1日",
+     "start": "2026-10-30",
+     "end": "2026-11-01",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-数学建模竞赛",
+   "title": "中国研究生数学建模竞赛",
+   "title_raw": "数学建模竞赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月1日-9月19日",
+     "start": "2026-06-01",
+     "end": "2026-09-19",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "9月27日-9月28日",
+     "start": "2026-09-27",
+     "end": "2026-09-28",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "12月11日-13日",
+     "start": "2026-12-11",
+     "end": "2026-12-13",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-电子设计竞赛",
+   "title": "中国研究生电子设计竞赛",
+   "title_raw": "电子设计竞赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "4月3日-6月20日",
+     "start": "2026-04-03",
+     "end": "2026-06-20",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "4月3日-6月20日",
+     "start": "2026-04-03",
+     "end": "2026-06-20",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "8月11日-15日",
+     "start": "2026-08-11",
+     "end": "2026-08-15",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-创芯大赛",
+   "title": "中国研究生创“芯”大赛",
+   "title_raw": "创“芯”大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "3月20日-6月30日",
+     "start": "2026-03-20",
+     "end": "2026-06-30",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "5月16日-7月7日",
+     "start": "2026-05-16",
+     "end": "2026-07-07",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "8月13日-17日",
+     "start": "2026-08-13",
+     "end": "2026-08-17",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-创芯大赛EDA精英挑战赛",
+   "title": "中国研究生创“芯”大赛 --EDA精英挑战赛",
+   "title_raw": "创“芯”大赛 --EDA精英挑战赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "8月4日-10月16日",
+     "start": "2026-08-04",
+     "end": "2026-10-16",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "11月7日前",
+     "start": "2026-11-07",
+     "end": "2026-11-07",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "11月27日-29日",
+     "start": "2026-11-27",
+     "end": "2026-11-29",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-人工智能创新大赛",
+   "title": "中国研究生人工智能创新大赛",
+   "title_raw": "人工智能创新大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "5月22日-8月25日",
+     "start": "2026-05-22",
+     "end": "2026-08-25",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "5月22日-9月1日",
+     "start": "2026-05-22",
+     "end": "2026-09-01",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "10月23日-25日",
+     "start": "2026-10-23",
+     "end": "2026-10-25",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-机器人创新设计大赛",
+   "title": "中国研究生机器人创新设计大赛",
+   "title_raw": "机器人创新设计大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月23日-8月24日",
+     "start": "2026-06-23",
+     "end": "2026-08-24",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月23日-8月25日",
+     "start": "2026-06-23",
+     "end": "2026-08-25",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "11月6日-8日",
+     "start": "2026-11-06",
+     "end": "2026-11-08",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-能源装备创新设计大赛",
+   "title": "中国研究生能源装备创新设计大赛",
+   "title_raw": "能源装备创新设计大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月25日-8月15日",
+     "start": "2026-06-25",
+     "end": "2026-08-15",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月25日-8月25日",
+     "start": "2026-06-25",
+     "end": "2026-08-25",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "10月16日-18日",
+     "start": "2026-10-16",
+     "end": "2026-10-18",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-公共管理案例大赛",
+   "title": "中国研究生公共管理案例大赛",
+   "title_raw": "公共管理案例大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "1月13日-3月13日",
+     "start": "2026-01-13",
+     "end": "2026-03-13",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "1月13日-3月31日",
+     "start": "2026-01-13",
+     "end": "2026-03-31",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "6月13日-6月14日",
+     "start": "2026-06-13",
+     "end": "2026-06-14",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-科技作品竞赛",
+   "title": "中国研究生科技作品竞赛",
+   "title_raw": "科技作品竞赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "5月19日-9月5日",
+     "start": "2026-05-19",
+     "end": "2026-09-05",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月15日-9月5日",
+     "start": "2026-06-15",
+     "end": "2026-09-05",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "10月16日-17日",
+     "start": "2026-10-16",
+     "end": "2026-10-17",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-卓越兽医挑战赛",
+   "title": "中国研究生卓越兽医挑战赛",
+   "title_raw": "卓越兽医挑战赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月10日-8月31日",
+     "start": "2026-06-10",
+     "end": "2026-08-31",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "7月1日-9月5日",
+     "start": "2026-07-01",
+     "end": "2026-09-05",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-网络安全创新大赛",
+   "title": "中国研究生网络安全创新大赛",
+   "title_raw": "网络安全创新大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月18日-10月18日",
+     "start": "2026-06-18",
+     "end": "2026-10-18",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月18日-10月22日",
+     "start": "2026-06-18",
+     "end": "2026-10-22",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "12月25日-27日",
+     "start": "2026-12-25",
+     "end": "2026-12-27",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-双碳创新与创意大赛",
+   "title": "中国研究生“双碳”创新与创意大赛",
+   "title_raw": "“双碳”创新与创意大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月23日-9月11日",
+     "start": "2026-06-23",
+     "end": "2026-09-11",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月23日-9月13日",
+     "start": "2026-06-23",
+     "end": "2026-09-13",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "11月27日-29日",
+     "start": "2026-11-27",
+     "end": "2026-11-29",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-金融科技创新大赛",
+   "title": "中国研究生金融科技创新大赛",
+   "title_raw": "金融科技创新大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "5月22日-8月17日",
+     "start": "2026-05-22",
+     "end": "2026-08-17",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "7月10日-8月31日",
+     "start": "2026-07-10",
+     "end": "2026-08-31",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "10月30日-11月1日",
+     "start": "2026-10-30",
+     "end": "2026-11-01",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-美丽中国创新设计大赛",
+   "title": "中国研究生“美丽中国”创新设计大赛",
+   "title_raw": "“美丽中国”创新设计大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月20日-8月20日",
+     "start": "2026-06-20",
+     "end": "2026-08-20",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月20日-8月20日",
+     "start": "2026-06-20",
+     "end": "2026-08-20",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "10月30日-11月1日",
+     "start": "2026-10-30",
+     "end": "2026-11-01",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-企业管理创新大赛",
+   "title": "中国研究生企业管理创新大赛",
+   "title_raw": "企业管理创新大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "8月10日-9月22日",
+     "start": "2026-08-10",
+     "end": "2026-09-22",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "12月5日-6日",
+     "start": "2026-12-05",
+     "end": "2026-12-06",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-操作系统开源创新大赛",
+   "title": "中国研究生操作系统开源创新大赛",
+   "title_raw": "操作系统开源创新大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "5月15日-7月28日",
+     "start": "2026-05-15",
+     "end": "2026-07-28",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "5月30日-7月30日",
+     "start": "2026-05-30",
+     "end": "2026-07-30",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "10月15日-17日",
+     "start": "2026-10-15",
+     "end": "2026-10-17",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-文化中国两创大赛",
+   "title": "中国研究生“文化中国”两创大赛",
+   "title_raw": "“文化中国”两创大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "5月22日-9月13日 8月24日截止（舞蹈赛道）",
+     "start": "2026-05-22",
+     "end": "2026-09-13",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "5月22日-9月13日 8月24日截止（舞蹈赛道）",
+     "start": "2026-05-22",
+     "end": "2026-09-13",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "11月14日-15日 9月25日-27日（舞蹈赛道）",
+     "start": "2026-11-14",
+     "end": "2026-11-15",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-国际中文教育案例大赛",
+   "title": "中国研究生国际中文教育案例大赛",
+   "title_raw": "国际中文教育案例大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "6月1日-6月30日",
+     "start": "2026-06-01",
+     "end": "2026-06-30",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "6月1日-7月13日",
+     "start": "2026-06-01",
+     "end": "2026-07-13",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  },
+  {
+   "id": "cpipc-2026-智能建造创新大赛",
+   "title": "中国研究生智能建造创新大赛",
+   "title_raw": "智能建造创新大赛",
+   "organizer": "中国研究生创新实践系列大赛组委会",
+   "official_url": "https://cpipc.acge.org.cn/",
+   "phases": [
+    {
+     "name": "报名",
+     "raw": "5月18日-8月20日",
+     "start": "2026-05-18",
+     "end": "2026-08-20",
+     "precision": "day"
+    },
+    {
+     "name": "作品提交",
+     "raw": "5月18日-8月31日",
+     "start": "2026-05-18",
+     "end": "2026-08-31",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "raw": "11月26日-28日",
+     "start": "2026-11-26",
+     "end": "2026-11-28",
+     "precision": "day"
+    }
+   ],
+   "published": "2026-10-23 13:08",
+   "confidence": "tentative",
+   "tags": [
+    "企业赛",
+    "研究生",
+    "官方赛程表"
+   ],
+   "source": {
+    "type": "official",
+    "name": "中国研究生创新实践系列大赛管理平台",
+    "url": "https://cpipc.acge.org.cn/pw/notice/detail/2c9080179e403028019e484cf50210a6"
+   }
+  }
+ ]
+}
