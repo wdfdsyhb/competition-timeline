@@ -147,8 +147,8 @@ def build_ics(recs):
     n = 0
     for r in recs:
         for i, ph in enumerate(r["phases"]):
-            start = ph["start"] or ""
-            end = ph["end"] or ""
+            start = (ph["start"] or "")[:10]
+            end = (ph["end"] or "")[:10]
             # 只有 end 的阶段：把 end 当单日事件开始（截止日提醒语义）
             if len(start) != 10 and len(end) == 10:
                 start, end = end, ""
