@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = ROOT / "data" / "candidates.json"
-EXTRA = [ROOT / "data" / "cpipc.json", ROOT / "data" / "candidates_baidustar.json", ROOT / "data" / "candidates_codecraft.json"]
+EXTRA = [ROOT / "data" / "cpipc.json", ROOT / "data" / "candidates_baidustar.json", ROOT / "data" / "candidates_codecraft.json", ROOT / "data" / "candidates_tianchi.json"]
 
 
 def norm_title(t):
