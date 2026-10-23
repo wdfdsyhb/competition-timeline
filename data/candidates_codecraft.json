@@ -1,0 +1,53 @@
+{
+ "generated_at": "2026-10-23T14:09:44.515525",
+ "source": "codecraft",
+ "counts": {
+  "total": 1
+ },
+ "records": [
+  {
+   "id": "codecraft-2026",
+   "title": "2026华为软件精英挑战赛",
+   "organizer": "华为技术有限公司",
+   "tags": [
+    "企业赛",
+    "程序设计"
+   ],
+   "source": {
+    "type": "official",
+    "name": "华为开发者大赛官网",
+    "url": "https://developer.huaweicloud.com/codecraft2026"
+   },
+   "official_url": "https://developer.huaweicloud.com/codecraft2026",
+   "confidence": "confirmed",
+   "published": null,
+   "phases": [
+    {
+     "name": "报名时间",
+     "start": "2026-03-16T09:00:00",
+     "end": "2026-04-09T18:00:00",
+     "precision": "day"
+    },
+    {
+     "name": "初赛",
+     "start": "2026-03-16T09:00:00",
+     "end": "2026-04-14T12:00:00",
+     "precision": "day"
+    },
+    {
+     "name": "复赛",
+     "start": "2026-04-15T09:00:00",
+     "end": "2026-04-27T23:59:59",
+     "precision": "day"
+    },
+    {
+     "name": "决赛",
+     "start": "2026-04-28T09:00:00",
+     "end": "2026-05-16T12:00:00",
+     "precision": "day"
+    }
+   ],
+   "method": "vite-chunk-static"
+  }
+ ]
+}

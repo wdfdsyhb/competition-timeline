@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .dsh-switchman/
 site/empty-dir/
+_tmp_*.html
