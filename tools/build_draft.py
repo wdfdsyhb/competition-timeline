@@ -46,6 +46,9 @@ CATS = [
 # 非赛事：榜单 / 指数 / 报告发布类
 REPORT_HINTS = ("指数", "分析报告", "画像", "分档榜", "公布", "发布")
 
+# 「今年」锚点，与写入页面的 __TODAY__ 同一来源
+TODAY = date.today()
+
 
 def categorize(title):
     for name, keys in CATS:
@@ -104,6 +107,13 @@ def build_records(raw):
                 "precision": p.get("precision", "day"),
                 "raw": p.get("raw", ""),
             })
+        # 年份离谱：源站会写错（中华民族影像征集计划 正文是「2026年5月19日
+        # 启动，长期征集」，摘要却写「2029年12月31日」）。不擅自改数，只打标，
+        # 前端给「年份存疑」提示，让人点原文核对。
+        suspect = any(
+            (v or "")[:4].isdigit() and int((v or "")[:4]) > TODAY.year + 2
+            for p in phases for v in (p["start"], p["end"])
+        )
         out.append({
             "id": r["id"],
             "title": clean(r["title"]),
@@ -114,6 +124,7 @@ def build_records(raw):
             "lead": lead.get("start") or lead.get("end"),
             "lead_end": lead.get("end"),
             "reg_end": reg_end,
+            "suspect": suspect,
             "precision": lead.get("precision", "day"),
             "phases": phases,
             "src": r["source"]["url"],
@@ -190,7 +201,7 @@ def build_ics(recs):
 def main():
     data = json.loads(SRC.read_text(encoding="utf-8"))
     recs = build_records(data["records"])
-    today = date.today().isoformat()
+    today = TODAY.isoformat()
 
     cat_counts = Counter(r["cat"] for r in recs)
     cats = [{"name": n, "n": c} for n, c in cat_counts.most_common()]
@@ -714,6 +725,8 @@ function cardHTML(r, qi){
     </div>
     ${(tags.length || r.cat) ? `<div class="badges">
       <span class="badge b-cat">${esc(r.cat)}</span>
+      ${r.suspect ? `<span class="badge b-warn" title="源站摘要里的年份可能是笔误，请点原文核对">
+        <i data-lucide="alert-triangle"></i>年份存疑</span>` : ""}
       ${tags.map(t=>`<span class="badge b-tag">${esc(t)}</span>`).join("")}
     </div>` : ""}
     ${r.org ? `<div class="org"><i data-lucide="building-2"></i>${esc(r.org)}</div>` : ""}
