@@ -370,23 +370,92 @@ svg.i{width:15px;height:15px;stroke-width:2;flex:none;vertical-align:-2px}
 .seg button[aria-pressed="true"]{
   background:#fff;color:var(--ink);box-shadow:0 1px 3px rgba(11,11,15,.10);
 }
-.chips{display:flex;gap:6px;overflow-x:auto;flex:1;min-width:0;
-  scrollbar-width:none;padding:1px}
-.chips::-webkit-scrollbar{display:none}
-.chip{
+/* ── 分类：展开式下拉 ───────────────────────────────── */
+.catnav{position:relative;flex:none;margin-left:auto}
+.cat-btn{
+  display:flex;align-items:center;gap:7px;
   border:1px solid var(--line);background:#fff;border-radius:999px;
-  font:inherit;font-size:12.5px;color:var(--muted);
-  padding:5px 12px;cursor:pointer;white-space:nowrap;flex:none;
-  display:flex;align-items:center;gap:5px;
-  transition:all .2s var(--ease);
+  font:inherit;font-size:12.5px;font-weight:540;color:var(--ink);
+  padding:5px 12px 5px 13px;cursor:pointer;white-space:nowrap;
+  transition:border-color .2s var(--ease),box-shadow .2s var(--ease),
+             transform .12s var(--ease);
 }
-.chip:hover{border-color:#cfcfd8;color:var(--ink);transform:translateY(-1px)}
+.cat-btn:hover{border-color:#cfcfd8;box-shadow:0 1px 4px rgba(11,11,15,.06)}
+.cat-btn:active{transform:scale(.97)}
+.cat-btn .cv{color:var(--muted);font-weight:500}
+.cat-btn .cx{
+  width:11px;height:11px;flex:none;color:var(--faint);
+  transition:transform .3s var(--ease),color .2s var(--ease);
+}
+.catnav.open .cat-btn{border-color:#c9c9d4;box-shadow:0 2px 10px rgba(11,11,15,.08)}
+.catnav.open .cat-btn .cx{transform:rotate(180deg);color:var(--ink)}
+
+/* 面板：0fr→1fr 做高度过渡，比 max-height 稳，不依赖内容高度 */
+.cat-panel{
+  position:absolute;top:calc(100% + 8px);right:0;width:min(560px,calc(100vw - 48px));
+  display:grid;grid-template-rows:0fr;
+  background:#fff;border:1px solid var(--line);border-radius:16px;
+  box-shadow:0 16px 44px -12px rgba(11,11,15,.20),0 2px 8px rgba(11,11,15,.05);
+  opacity:0;visibility:hidden;transform:translateY(-6px) scale(.985);
+  transform-origin:top right;
+  transition:grid-template-rows .34s var(--ease),opacity .26s var(--ease),
+             transform .34s var(--ease),visibility 0s linear .34s;
+  z-index:60;overflow:hidden;
+}
+.catnav.open .cat-panel{
+  grid-template-rows:1fr;opacity:1;visibility:visible;
+  transform:translateY(0) scale(1);
+  transition:grid-template-rows .38s var(--ease),opacity .2s var(--ease),
+             transform .38s var(--ease),visibility 0s;
+}
+/* 下方放不下时向上展开 */
+.catnav.up .cat-panel{
+  top:auto;bottom:calc(100% + 8px);transform-origin:bottom right;
+  transform:translateY(6px) scale(.985);
+}
+.catnav.up.open .cat-panel{transform:translateY(0) scale(1)}
+.cat-panel .inner{min-height:0;overflow:hidden;padding:12px}
+/* 矮屏兜底：面板整体不超过视口，超出部分内部滚动 */
+.catnav.open .cat-panel .inner{
+  max-height:calc(100vh - 150px);overflow-y:auto;
+  scrollbar-width:thin;scrollbar-color:#d6d6de transparent;
+}
+.catnav.open .cat-panel .inner::-webkit-scrollbar{width:6px}
+.catnav.open .cat-panel .inner::-webkit-scrollbar-thumb{
+  background:#d6d6de;border-radius:3px;
+}
+.chips{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px}
+.chip{
+  border:1px solid transparent;background:none;border-radius:10px;
+  font:inherit;font-size:12.5px;color:var(--muted);
+  padding:8px 10px;cursor:pointer;text-align:left;
+  display:flex;align-items:center;gap:7px;min-width:0;
+  transition:background .18s var(--ease),color .18s var(--ease),
+             border-color .18s var(--ease),transform .12s var(--ease);
+  opacity:0;transform:translateY(-4px);
+}
+/* 展开时逐条落位，1600ms 的窗口内错峰，收起不反向播放 */
+.catnav.open .chip{
+  animation:chipIn .34s var(--ease) forwards;
+  animation-delay:calc(var(--i,0) * 18ms);
+}
+@keyframes chipIn{to{opacity:1;transform:translateY(0)}}
+.chip:hover{background:#f6f6f9;color:var(--ink)}
+.chip:active{transform:scale(.985)}
 .chip[aria-pressed="true"]{
   background:var(--ink);border-color:var(--ink);color:#fff;
 }
-.chip .n{font-size:11px;color:var(--faint);font-variant-numeric:tabular-nums}
+.chip .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chip .n{font-size:11px;color:var(--faint);font-variant-numeric:tabular-nums;flex:none}
 .chip[aria-pressed="true"] .n{color:rgba(255,255,255,.62)}
-.count{font-size:12px;color:var(--faint);margin-left:auto;white-space:nowrap}
+/* 数量条：一眼看出各分类体量差 */
+.chip .bar{
+  position:absolute;left:0;bottom:0;height:2px;border-radius:2px;
+  background:var(--blue);opacity:.30;transition:opacity .2s var(--ease);
+}
+.chip{position:relative;overflow:hidden}
+.chip[aria-pressed="true"] .bar{background:#fff;opacity:.5}
+.count{font-size:12px;color:var(--faint);white-space:nowrap}
 
 /* ── 时间轴 ─────────────────────────────────────────── */
 main{position:relative;z-index:1;max-width:1080px;margin:0 auto;padding:26px 24px 80px}
@@ -620,7 +689,15 @@ footer .ln{display:flex;gap:7px;align-items:flex-start;line-height:1.6}
       <button data-v="all" aria-pressed="false">全部</button>
       <button data-v="past" aria-pressed="false">已截止</button>
     </div>
-    <div class="chips" id="chips"></div>
+    <div class="catnav" id="catnav">
+      <button class="cat-btn" id="cat-btn" aria-expanded="false" aria-controls="cat-panel">
+        分类<span class="cv" id="cat-cur">全部</span>
+        <i data-lucide="chevron-down" class="cx"></i>
+      </button>
+      <div class="cat-panel" id="cat-panel" role="group" aria-label="赛事分类">
+        <div class="inner"><div class="chips" id="chips"></div></div>
+      </div>
+    </div>
     <div class="count" id="count"></div>
   </div>
 </div>
@@ -844,6 +921,8 @@ function apply(patch){
     b.setAttribute("aria-pressed", String(b.dataset.v === state.status)));
   $$("#chips button").forEach(b =>
     b.setAttribute("aria-pressed", String(b.dataset.v === state.cat)));
+  const cur = $("#cat-cur");
+  if(cur) cur.textContent = state.cat;
   morph(render);
 }
 
@@ -851,9 +930,12 @@ function buildChips(){
   const box = $("#chips");
   const rows = [{name:"全部", n:DATA.length},
                 ...CATS.filter(c => c.n > 0).map(c => ({name:c.name, n:c.n}))];
-  box.innerHTML = rows.map(c =>
-    `<button class="chip" data-v="${esc(c.name)}"
-      aria-pressed="${c.name === state.cat}">${esc(c.name)}<span class="n">${c.n}</span>
+  const max = Math.max(...rows.map(r => r.n)) || 1;
+  box.innerHTML = rows.map((c, i) =>
+    `<button class="chip" data-v="${esc(c.name)}" style="--i:${i}"
+      aria-pressed="${c.name === state.cat}">
+      <span class="nm">${esc(c.name)}</span><span class="n">${c.n}</span>
+      <span class="bar" style="width:${Math.max(2, c.n / max * 100).toFixed(1)}%"></span>
     </button>`).join("");
 }
 
@@ -932,7 +1014,48 @@ $("#seg-status").addEventListener("click", e => {
 });
 $("#chips").addEventListener("click", e => {
   const b = e.target.closest("button");
-  if(b) apply({cat: b.dataset.v});
+  if(b){ apply({cat: b.dataset.v}); closeCat(); }
+});
+
+/* 分类下拉：点开、点外关、Esc 关、选了自动关 */
+const catnav = $("#catnav"), catbtn = $("#cat-btn");
+function openCat(){
+  catnav.classList.add("open");
+  catbtn.setAttribute("aria-expanded", "true");
+  // 下方空间不够就向上翻。高度取 .chips 的内容高度——面板收起时
+  // grid-template-rows 是 0fr，量 panel.scrollHeight 会得到 0，判断全错。
+  const r = catbtn.getBoundingClientRect();
+  const chips = catnav.querySelector(".chips");
+  // +24 是 .inner 上下内边距，+10 是 gap 与边框的余量。余量给多了会误判：
+  // 桌面端 805px 高时按钮底 472 + 面板 322 恰好放得下，多算 18px 就会白翻一次。
+  const need = Math.min(chips.scrollHeight + 34, window.innerHeight - 150);
+  catnav.classList.toggle("up", r.bottom + need > window.innerHeight && r.top > need);
+}
+function closeCat(){
+  catnav.classList.remove("open");
+  catbtn.setAttribute("aria-expanded", "false");
+}
+catbtn.addEventListener("click", e => {
+  e.stopPropagation();
+  catnav.classList.contains("open") ? closeCat() : openCat();
+});
+document.addEventListener("click", e => {
+  if(!catnav.contains(e.target)) closeCat();
+});
+document.addEventListener("keydown", e => {
+  if(e.key === "Escape" && catnav.classList.contains("open")){
+    closeCat(); catbtn.focus();
+  }
+});
+/* 键盘上下键在分类间移动，避免用 Tab 逐个跳 12 个按钮 */
+catnav.addEventListener("keydown", e => {
+  if(e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+  const bs = [...catnav.querySelectorAll(".chip")];
+  const i = bs.indexOf(document.activeElement);
+  if(i < 0) return;
+  e.preventDefault();
+  const next = bs[(i + (e.key === "ArrowDown" ? 1 : -1) + bs.length) % bs.length];
+  next.focus();
 });
 
 let qt;
