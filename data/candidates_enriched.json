@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T16:35:18",
+ "generated_at": "2026-10-24T21:36:31",
  "source": "https://www.52jingsai.com/bisai/xkjn/bangdan/",
  "counts": {
   "total": 173,
@@ -64,6 +64,31 @@
     "type": "aggregator",
     "name": "我爱竞赛网",
     "url": "https://www.52jingsai.com/article-24114-1.html"
+   },
+   "confidence": "tentative",
+   "official_url": null
+  },
+  {
+   "id": "23889",
+   "title_raw": "【普通话，榜单赛事】2026年第五届大学生普通话大赛报名通知",
+   "title": "2026年第五届大学生普通话大赛报名通知",
+   "tags": [
+    "普通话",
+    "榜单赛事"
+   ],
+   "phases": [
+    {
+     "name": "报名",
+     "start": null,
+     "end": "2026-12-25"
+    }
+   ],
+   "organizer": "中国语文报刊协会读写教学分会",
+   "published": "2026-10-13 09:05",
+   "source": {
+    "type": "aggregator",
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/article-23889-1.html"
    },
    "confidence": "tentative",
    "official_url": null
@@ -276,31 +301,6 @@
    "official_url": null
   },
   {
-   "id": "23889",
-   "title_raw": "【普通话，榜单赛事】2026年第五届大学生普通话大赛报名通知",
-   "title": "2026年第五届大学生普通话大赛报名通知",
-   "tags": [
-    "普通话",
-    "榜单赛事"
-   ],
-   "phases": [
-    {
-     "name": "报名",
-     "start": null,
-     "end": "2026-12-25"
-    }
-   ],
-   "organizer": "中国语文报刊协会读写教学分会",
-   "published": null,
-   "source": {
-    "type": "aggregator",
-    "name": "我爱竞赛网",
-    "url": "https://www.52jingsai.com/article-23889-1.html"
-   },
-   "confidence": "tentative",
-   "official_url": null
-  },
-  {
    "id": "24044",
    "title_raw": "【榜单赛事】2026新锐设计竞赛·华灿奖",
    "title": "2026新锐设计竞赛·华灿奖",
@@ -417,7 +417,7 @@
     }
    ],
    "organizer": "中国对外贸易经济合作企业协会",
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -817,7 +817,7 @@
     }
    ],
    "organizer": null,
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -1171,7 +1171,7 @@
     }
    ],
    "organizer": null,
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -1934,7 +1934,7 @@
     }
    ],
    "organizer": "中国对外贸易经济合作企业协会",
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -2314,7 +2314,7 @@
    "tags": [],
    "phases": [],
    "organizer": null,
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -2710,7 +2710,7 @@
     }
    ],
    "organizer": "教育部、国家语委",
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -3459,7 +3459,7 @@
    ],
    "phases": [],
    "organizer": null,
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -3864,7 +3864,7 @@
     }
    ],
    "organizer": null,
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -4244,7 +4244,7 @@
     }
    ],
    "organizer": "中国信息协会",
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -4458,7 +4458,7 @@
     }
    ],
    "organizer": null,
-   "published": "2026-10-22 16:35",
+   "published": "2026-10-24 21:36",
    "source": {
     "type": "aggregator",
     "name": "我爱竞赛网",
@@ -4468,5 +4468,5 @@
    "official_url": null
   }
  ],
- "enriched_at": "2026-10-22 20:20:28"
+ "enriched_at": "2026-10-24 21:39:09"
 }

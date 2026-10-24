@@ -86,6 +86,15 @@ def build_records(raw):
             continue
         dated.sort(key=lambda p: p.get("start") or p.get("end"))
         lead = dated[0]
+        # 报名截止：优先找报名/截止类节点的最晚 end。
+        # 「可报名」是问报名还开不开，不是问最早那个节点过没过 ——
+        # 报名 3 月开始、10 月底截止的赛事，用 lead 判会误报「已截止」。
+        reg_ends = [
+            p.get("end") or p.get("start")
+            for p in r["phases"]
+            if ("报名" in p["name"] or "截止" in p["name"]) and (p.get("end") or p.get("start"))
+        ]
+        reg_end = max(reg_ends) if reg_ends else None
         phases = []
         for p in r["phases"]:
             phases.append({
@@ -104,6 +113,7 @@ def build_records(raw):
             "cat": categorize(r["title"]),
             "lead": lead.get("start") or lead.get("end"),
             "lead_end": lead.get("end"),
+            "reg_end": reg_end,
             "precision": lead.get("precision", "day"),
             "phases": phases,
             "src": r["source"]["url"],
@@ -646,9 +656,14 @@ const CONF = {
 let state = {status:"open", cat:"全部", q:""};
 
 function statusOf(r){
-  const n = daysFrom(r.lead);
+  // 可报名 = 报名还开着。有报名截止点就看它，没有才退回最早节点。
+  const n = daysFrom(r.reg_end || r.lead);
   if(n === null) return "unknown";
   return n < 0 ? "past" : "open";
+}
+/* 排序/倒计时都用「报名截止」优先，这才对应「还能不能报」 */
+function topDate(r){
+  return r.reg_end || r.lead;
 }
 function pass(r){
   if(state.cat !== "全部" && r.cat !== state.cat) return false;
@@ -663,7 +678,7 @@ function pass(r){
 
 /* 排序：未来的按日期升序在前，已截止的倒序沉底 */
 function order(a, b){
-  const da = daysFrom(a.lead), db = daysFrom(b.lead);
+  const da = daysFrom(topDate(a)), db = daysFrom(topDate(b));
   const fa = da === null ? 1 : (da >= 0 ? 0 : 1);
   const fb = db === null ? 1 : (db >= 0 ? 0 : 1);
   if(fa !== fb) return fa - fb;
@@ -673,7 +688,7 @@ function order(a, b){
 
 /* ── 渲染 ─────────────────────────────────────────── */
 function cardHTML(r, qi){
-  const kd = fmtKd(daysFrom(r.lead));
+  const kd = fmtKd(daysFrom(topDate(r)));
   const cf = CONF[r.conf] || CONF.tentative;
   const st = statusOf(r);
   const tags = (r.tags||[]).filter(t => !/^榜单(赛事|竞赛)$/.test(t)).slice(0,2);
@@ -721,7 +736,7 @@ function cardHTML(r, qi){
 }
 
 function groupKey(r){
-  const p = (r.lead||"").split("-");
+  const p = (topDate(r)||"").split("-");
   return p.length >= 2 ? `${p[0]}-${p[1]}` : "9999-99";
 }
 function monthName(k){
@@ -934,11 +949,11 @@ function countUp(){
 /* 可报名数 + 近 30 天截止数 */
 function computeOpen(){
   const open = DATA.filter(r => {
-    const d = daysFrom(r.lead);
+    const d = daysFrom(topDate(r));
     return d !== null && d >= 0;
   }).length;
   const soon = DATA.filter(r => {
-    const d = daysFrom(r.lead);
+    const d = daysFrom(topDate(r));
     return d !== null && d >= 0 && d <= 30;
   }).length;
   $("#s-open").textContent = open;
