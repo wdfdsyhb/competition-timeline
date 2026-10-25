@@ -1,6 +1,10 @@
-# 全国大学生竞赛时间轴
+# competition-timeline · 大学生竞赛截止日历
 
-一个面向全国大学生的竞赛时间聚合静态站点：收录正在报名 / 即将截止的学科竞赛，提供按月份分组的时间轴视图、筛选、倒计时，以及**可直接订阅的日历（.ics）**。
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+> 把散落在几百个官网、公众号里的竞赛报名时间汇成一条时间轴：正在报名 / 即将截止一目了然，还能把 .ics 日历订阅进手机。
+>
+> English: One page for Chinese collegiate competition deadlines — a monthly timeline of what's open and what's closing, plus a subscribable .ics calendar.
 
 线上地址：**https://wdfdsyhb.github.io/competition-timeline/**
 
@@ -137,3 +141,9 @@ python tools/build_draft.py          # 生成 index.html + competitions.ics
 ## License
 
 数据抓取自公开网页，版权归原发布单位；代码 MIT。
+
+---
+
+## English
+
+Full English documentation: [README_EN.md](README_EN.md)
